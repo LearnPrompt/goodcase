@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 19 published Cases across 17 creators.
+This workflow is derived from 18 published Cases across 16 creators.
 
 ## Operating rule
 
@@ -61,16 +61,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > her forearm and hurls it, then drives her fist down onto a folding table so the tin cups
 > jump. (5s–10s) Two people g…
 
-### E3 · 深夜冒险：悄悄溜出
-
-- Creator: @ChrisGwinnLA
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-b6fab58d65a7) · [finished media](https://media.goodcase.ai/cases/c7e16e879c43.mp4) · [poster](https://media.goodcase.ai/cases/a7f09a80e1f8.jpg) · [original source](https://x.com/ChrisGwinnLA/status/2088485933494751406)
-- Summary: 一个电影感提示词，用于生成一段视频：孩子在母亲熟睡时小心翼翼地溜出去进行深夜冒险。
-- Prompt excerpt:
-
-> Checking to make sure mother's asleep before sneaking out for a late night adventure.
-
-### E4 · 雨夜韩国黑色电影重逢
+### E3 · 雨夜韩国黑色电影重逢
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-e0350715ec60) · [finished media](https://media.goodcase.ai/cases/120e7ace6322.webm) · [poster](https://media.goodcase.ai/cases/eae3a767b8d2.jpg) · [original source](https://x.com/doctorwasif/status/2082790356983447606)
@@ -91,7 +82,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Audio: Rain, thunder, jazz crackle, lighter click, intimate silence during dialogue.
 
-### E5 · Seedance 2.5 预见未来十秒的机器：悬念短片
+### E4 · Seedance 2.5 预见未来十秒的机器：悬念短片
 
 - Creator: @iam_nafisahmed
 - Evidence: [GoodCase](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8) · [finished media](https://media.goodcase.ai/cases/9397cb7cddb2.mp4) · [poster](https://media.goodcase.ai/cases/5405d393af23.jpg) · [original source](https://x.com/iam_nafisahmed/status/2088964392528527702)
@@ -132,7 +123,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > No subtitles, no logos, no watermark, no cartoon style."
 
-### E6 · Korean Fantasy Romance Drama
+### E5 · Korean Fantasy Romance Drama
 
 - Creator: @JuliaClarky
 - Evidence: [GoodCase](https://goodcase.ai/cases/korean-fantasy-romance-drama) · [finished media](https://media.goodcase.ai/media/video/korean-fantasy-romance-drama.mp4) · [poster](https://media.goodcase.ai/media/poster/korean-fantasy-romance-drama.jpg) · [original source](https://x.com/JuliaClarky/status/2079586851862835248)
@@ -143,7 +134,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Ultra-realistic Korean actors, cinematic K-drama visuals, emotional performances, natural lighting, fantasy magic effects, professional movie camera, authentic Seoul locations, Korean dialogue with English subtitles, emotional OST, 4K cinematic masterpiece.
 
-### E7 · Mermaid Rescue Cinematic Story
+### E6 · Mermaid Rescue Cinematic Story
 
 - Creator: @AIwithNatalia
 - Evidence: [GoodCase](https://goodcase.ai/cases/mermaid-rescue-cinematic-story) · [finished media](https://media.goodcase.ai/media/video/mermaid-rescue-cinematic-story.mp4) · [poster](https://media.goodcase.ai/media/poster/mermaid-rescue-cinematic-story.jpg) · [original source](https://x.com/AIwithNatalia/status/2087462551210659906)
@@ -153,7 +144,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > SCENE 1 — 0–5 seconds: THE SHIPWRECK
 > A massive wooden sailing ship struggles violently against towering ocean waves during a dark nighttime storm. Lightning flashes across the sky as rain pours down. A young sailor loses his balance, falls over the side of the ship, and disappears into the raging black water. Use a dramatic wide shot followed by a close-up of his terrified face as he sinks beneath the waves. SCENE 2 — 5–15 seconds: THE MERMAID APPEARS Deep beneath the stormy surface, the sailor slowly sinks into the dark ocean. Suddenly, a mysterious blue glow appears in the distance. A beautiful mermaid emerges from the darkness and rapidly swims toward him. She has long flowing wet burgundy-red hair, the same facial features and appearance as the provided reference image, an elegant shimmering blue-green iridescent tail, a detailed seashell-inspired top decorated with pearls, subtle bioluminescent details, and expressive eyes. Her hair and tail move naturally with the underwater currents. She reaches the unconscious sailor, gently grabs him, and pulls him toward the surface as magical particles and soft blue light surround them. SCENE 3 — 15–25 seconds: THE RESCUE The mermaid carries the unconscious sailor through crashing waves toward a quiet rocky shoreline. The storm begins to weaken as dawn approaches. She carefully places him on the wet beach and checks that he is breathing. As the first warm rays of sunrise break through the clouds, she looks back toward the ocean. Before anyone can see her, she slips quietly back into the water and disappears beneath the waves. SCE…
 
-### E8 · 出租车分手戏：仿真人微表情连续情绪演变视频（Seedance 2.5）
+### E7 · 出租车分手戏：仿真人微表情连续情绪演变视频（Seedance 2.5）
 
 - Creator: 袋鼠帝
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-8d136b59e95a) · [finished media](https://media.goodcase.ai/cases/88c7cd34a91c.mp4) · [poster](https://media.goodcase.ai/cases/c63cbb62b439.jpg) · [original source](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-taxi-breakup)
@@ -162,19 +153,27 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 人设女性：年轻漂亮，长发披肩，坐在出租车后排。角色状态：与男友分手告别，表面强撑微笑、内心悲伤压抑，最终情绪崩溃嚎啕大哭。场景出租车内部的后排车厢作为空间环境参考，前排副驾驶空位（前景局部失焦虚化）；侧车窗与后车窗均被雨水打湿；车窗外为城市街道夜景、霓虹灯光、淅淅沥沥的小雨。画面风格真人实拍质感的青春恋爱电视剧，现代都市写实服化道，细腻情感戏审美，情绪戏节奏克制。影调车内整体偏暗，窗外城市夜景与霓虹灯光透过雨打车窗，在车内形成流动的彩色光斑与明暗切片，勾勒女性面部轮廓与长发边缘；车窗玻璃上雨珠反光；夜景冷调为主，霓虹光斑冷暖交织。全局约束无字幕、禁止生成字幕。画面内容分镜 1，0s-6s，车内中景，固定机位，摄像机位于前排副驾驶位置朝后方拍摄；前景左下方为副驾驶空座椅背局部（失焦虚化），女性位于画面右侧三分线位置。她侧着脸望向右侧车窗外，轻咬下唇，微笑着与窗外人道别，窗外站着一名身穿灰色夹克黑色牛仔裤的男性，透过车窗只能看见男性的局部身体：对白：女性（轻咬下唇，微笑）：「就这样，不用送了。」随后她转头面向镜头，对前排司机说：对白：女性：「司机，开车。」说完她不经意地带出一声压抑的细微啜泣，随即轻轻舒了一口气，脸上仍保持着刚才的微笑。出租车随即启动，车身轻微震动一下，车辆起步向前开动，窗外男性朝着车窗挥手再见（局部入画），男性与窗外雨幕与霓虹灯光快速向后掠过。音效：淅沥雨声打在车顶与车窗，城市夜晚低缓的环境底噪；对白期间人声清晰突出；一声压抑的细微啜泣；轻舒气声；发动机启动声与车身轻微震动；轮胎碾过湿路面的起步声。分镜 2，6s-15s，切换车内后排近景，手持拍摄，轻微仰拍，镜头随行驶中的车身轻微晃动；焦点在女性肩部以上正面，她背后隔着被雨打湿而模糊的后车窗，城市街景与霓虹灯光逐渐远去。一开始女性脸上仍带着微笑，没有皱眉也没有哭，慢慢地她开始轻微皱起眉头，小幅摇了摇头，像是反悔刚才说出口的话；接着她的嘴角微微下压，抿紧双唇，眼眶开始泛红；她稍稍仰起头试图忍住，眼神有些游离地瞥向旁边车窗外；接着她终于再也压抑不住 —— 嘴角明显下垂，眉毛内收收紧，鼻子开始抽搐，眼神黯淡，眼眶湿润，泪水开始流出；然后她垂下头、微微蜷缩着肩膀，随即猛然仰头，嚎啕大哭，一边哭一边抬手擦去脸上止不住的泪水。整段为逞强微笑→压抑情绪→悲伤外泄→情绪大爆发的连续情绪变化，一镜到底。音效：雨声持续；行驶中发动机低鸣与轮胎碾过湿路面的沙沙声；呼吸渐重、吸鼻声；压抑啜泣转为放声大哭；手背擦拭泪水的摩擦声与衣料声。全局配乐雨夜分手情绪戏（15s 配乐轨，无歌词）0-6s 无BGM，只保留对白和环境声；6-8s 微笑→轻微皱眉 | 钢琴单音/两音动机从雨声里渗出，极弱 pad 垫底，像回忆浮上来；8-10s 摇头反悔→抿唇→眼眶泛红 | 钢琴变叹息式下行音型，大提琴长音进入；10-12s 仰头忍泪→眼神游离 | 小提琴组加入，和声加厚，钢琴分解和弦铺开；12-13.5s 嘴角下压→鼻翼抽动→泪落 | 情绪临界：弦乐揉弦+力度加强，钢琴和弦加重；13.5-15s 垂头蜷缩→仰头嚎啕大哭 | 段落峰值：弦乐齐奏主题，钢琴八度重音。
 
+### E8 · Seedance 电影级分手表演提示词
+
+- Creator: @liyue_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-3b9beb9a46d4) · [finished media](https://media.goodcase.ai/media/video/seedance-3b9beb9a46d4.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-3b9beb9a46d4.jpg) · [original source](https://x.com/liyue_ai/status/2090378405288300626)
+- Summary: 一份为 Seedance 2.5 设计的 15 秒结构化视频提示词，旨在呈现情感细腻的分手场景，重点刻画表情表演、呼吸节奏及心理转变，全程无剪辑。
+- Prompt excerpt:
+
+> ## 一、镜头核心 - 成片时长：约 15 秒。 - 推荐画幅：16:9。原文件是 9:16 教程排版，但其中的人物表演画面本身接近横向 16:9。 - 镜头形式：第三人称、正面越肩构图、一镜到底，不切正反打。 - 景别变化：从近景/胸上景开始，结尾因女主后撤自然变为稍松的中近景。 - 情绪路径：紧张准备 → 听见熟悉问候 → 短暂动摇 → 苦笑掩饰 → 决绝宣告 → 克制退场。 - 核心表演链：刺激（门开、听见男声）→ 理解停顿 → 无意识反应（闭眼、吸气）→ 主动选择（抬眼、苦笑）→ 台词（“WE'RE DONE.”）→ 残留情绪（仍不舍但拉开距离）。 ## 二、人物与场景 ### 女主 参考上传图片 {{Mixed 1}} 外表柔软、干净，真实皮肤质感，不过度磨皮。她来这里之前已经做过决定，但真正见到男主时仍会动摇；表演不是愤怒，而是压住痛苦后的告别。 ### 男主 只以镜头右前方的深色失焦肩部、头部轮廓出现，不露脸、不抢焦、不进入清晰景深。声音温和、亲昵，尚未意识到女主是来结束关系的。 ### 场景与氛围 住宅门口或临近庭院的入口，背景可见柔化的绿色植物、浅灰路面和几颗暖色圆形散景。整体是傍晚前后的自然光感：人物左前方约 45° 的柔和冷白主光，背景带少量暖金色轮廓光。空间安静，空气似乎刚下过雨或带着潮湿感。氛围温柔、克制、疏离，不做强烈戏剧化灯光。 > 说明：焦段与灯光参数是根据画面反推的复拍建议，并非原视频元数据。建议使用全画幅等效 70–100mm 中长焦、较浅景深；焦点始终锁定女主双眼。 ## 三、15 秒连续表演脚本 ### 0.0–0.8 秒｜门开，人物被揭示 画面先被男主深色、严重失焦的身体轮廓大面积遮住。门打开后，男主略微向镜头右侧移动，女主从遮挡后被揭示，站在门外，正对男主。机位保持稳定，不突然推拉。 女主没有立刻抬头。她下巴轻收，视线停在男主胸口或门槛附近，嘴唇自然分开一点。身体看似安静，但肩颈带着轻微僵硬，像已经在门外排练过很多次。 声音：轻微开门声、衣料摩擦、安静的户外底噪。 ### 0.8–3.2 秒｜用呼吸压住情绪 女主缓慢吸气，动作很小：胸口与锁骨区域轻微抬起，肩膀先绷紧一点，再缓慢落下。她的目光仍向下，眼睑逐渐闭合，闭眼时间略长于正常眨眼。 不要立刻流泪，不要夸张皱眉。只保留两个可见信号：呼吸变深、唇角轻微发紧。她试图把即将失控的情绪压回去。 镜头：固定近景，浅景深，男主虚化轮廓留在画面右侧作为关系压力。 ### 3.2–5.4 秒｜听见熟悉的问候 男主画外音自然地说：“Hey, what's up, baby?” 语气轻松、带一点笑意，像平常迎接她一样。 女主先保持闭眼约半秒，让声音真正落进身体。随后喉咙轻轻吞咽，眉心只出现很浅的紧张，不抬头、不回答。她缓慢呼出刚才那口气，嘴唇微动，却没有形成语言。 表演重点：反应必须发生在听见台词之后；熟悉的亲昵让她短暂动摇，但没有改变决定。 ### 5.4–7.5 秒｜抬眼，对视，短暂动摇 女主先睁眼，再抬视线，最后才微微抬起下巴，动作分三层完成。焦点从男主胸口缓慢移到男主眼睛。眼神由散乱转为清晰，眼底有湿润感，但泪水不掉落。 她与男主对视后停住。鼻息稍乱，嘴唇轻轻抿合，面部仍然保持克制。镜头不要推进，让观众主动观察她的变化。 ### 7.5–9.3 秒｜苦笑成为最后一道防线 女主嘴角极轻地向一侧抬起，形成一个不完整、略不对称的苦笑。笑意只停留在嘴角，没有进入眼睛。她仍望着男主，像在确认自己熟悉的人还在，却也确认这段关系已经无法继续。 苦笑持续不到两秒，随后慢慢消失。消失后不要立刻变成冷脸，仍保留一点不舍和受伤，让悲伤与决心同时存在。 ### 9.3–10.6 秒｜宣告结束 女主保持眼神接触，以很轻、很清晰、没有怒气的声音说：“We're done.” 说话前留一…
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 无声手语之恋 | @abulu8 | [GoodCase](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12) | [Media](https://media.goodcase.ai/media/video/abulu8-seedance-ai-fe02d3785b12.mp4) | [Original](https://x.com/abulu8/status/2092917994251075961) | E1 |
 | 野战医院电影感剧情片段 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-73d9e0c83809) | [Media](https://media.goodcase.ai/cases/70c6a0b639f3.mp4) | [Original](https://x.com/Just_sharon7/status/2091744186186027386) | E2 |
-| 深夜冒险：悄悄溜出 | @ChrisGwinnLA | [GoodCase](https://goodcase.ai/cases/case-b6fab58d65a7) | [Media](https://media.goodcase.ai/cases/c7e16e879c43.mp4) | [Original](https://x.com/ChrisGwinnLA/status/2088485933494751406) | E3 |
-| 雨夜韩国黑色电影重逢 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-e0350715ec60) | [Media](https://media.goodcase.ai/cases/120e7ace6322.webm) | [Original](https://x.com/doctorwasif/status/2082790356983447606) | E4 |
-| Seedance 2.5 预见未来十秒的机器：悬念短片 | @iam_nafisahmed | [GoodCase](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8) | [Media](https://media.goodcase.ai/cases/9397cb7cddb2.mp4) | [Original](https://x.com/iam_nafisahmed/status/2088964392528527702) | E5 |
-| Korean Fantasy Romance Drama | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/korean-fantasy-romance-drama) | [Media](https://media.goodcase.ai/media/video/korean-fantasy-romance-drama.mp4) | [Original](https://x.com/JuliaClarky/status/2079586851862835248) | E6 |
-| Mermaid Rescue Cinematic Story | @AIwithNatalia | [GoodCase](https://goodcase.ai/cases/mermaid-rescue-cinematic-story) | [Media](https://media.goodcase.ai/media/video/mermaid-rescue-cinematic-story.mp4) | [Original](https://x.com/AIwithNatalia/status/2087462551210659906) | E7 |
-| 出租车分手戏：仿真人微表情连续情绪演变视频（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-8d136b59e95a) | [Media](https://media.goodcase.ai/cases/88c7cd34a91c.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-taxi-breakup) | E8 |
-| Seedance 电影级分手表演提示词 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/seedance-3b9beb9a46d4) | [Media](https://media.goodcase.ai/media/video/seedance-3b9beb9a46d4.mp4) | [Original](https://x.com/liyue_ai/status/2090378405288300626) | E— |
+| 雨夜韩国黑色电影重逢 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-e0350715ec60) | [Media](https://media.goodcase.ai/cases/120e7ace6322.webm) | [Original](https://x.com/doctorwasif/status/2082790356983447606) | E3 |
+| Seedance 2.5 预见未来十秒的机器：悬念短片 | @iam_nafisahmed | [GoodCase](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8) | [Media](https://media.goodcase.ai/cases/9397cb7cddb2.mp4) | [Original](https://x.com/iam_nafisahmed/status/2088964392528527702) | E4 |
+| Korean Fantasy Romance Drama | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/korean-fantasy-romance-drama) | [Media](https://media.goodcase.ai/media/video/korean-fantasy-romance-drama.mp4) | [Original](https://x.com/JuliaClarky/status/2079586851862835248) | E5 |
+| Mermaid Rescue Cinematic Story | @AIwithNatalia | [GoodCase](https://goodcase.ai/cases/mermaid-rescue-cinematic-story) | [Media](https://media.goodcase.ai/media/video/mermaid-rescue-cinematic-story.mp4) | [Original](https://x.com/AIwithNatalia/status/2087462551210659906) | E6 |
+| 出租车分手戏：仿真人微表情连续情绪演变视频（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-8d136b59e95a) | [Media](https://media.goodcase.ai/cases/88c7cd34a91c.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-taxi-breakup) | E7 |
+| Seedance 电影级分手表演提示词 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/seedance-3b9beb9a46d4) | [Media](https://media.goodcase.ai/media/video/seedance-3b9beb9a46d4.mp4) | [Original](https://x.com/liyue_ai/status/2090378405288300626) | E8 |
 | 通勤女性疲惫而匆忙的一天 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-realistic-short-film-of-a-young-east-asian-woman-with-wavy-shoulde-ddc8b7fe7d78) | [Media](https://media.goodcase.ai/cases/6d0cd739a813.mp4) | [Original](https://x.com/noorlewisx/status/2101902128986075593) | E— |
 | 亡母来电阻止雨夜山路车祸 | @RuzainaMeer | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242) | [Media](https://media.goodcase.ai/cases/e9d56ef7ae4d.mp4) | [Original](https://x.com/RuzainaMeer/status/2097193955230405007) | E— |
 | 冲绳战场军医冒火救援伤兵 | @Diplomeme | [GoodCase](https://goodcase.ai/cases/seedance-historical-dramatization-an-original-cinematic-reconstruction-inspired-by-the-f70171db6cd8) | [Media](https://media.goodcase.ai/cases/2e4eac7bd8c5.mp4) | [Original](https://x.com/Diplomeme/status/2100458083831234699) | E— |
