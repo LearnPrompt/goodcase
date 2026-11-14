@@ -7,8 +7,8 @@ English | [中文](README.md)
 The open-source site of [goodcase.ai](https://goodcase.ai): clone and run the same UI, with a set of real sample cases (full prompts and media) built in.
 
 ```bash
-git clone https://github.com/LearnPrompt/goodcase-lite.git
-cd goodcase-lite
+git clone https://github.com/LearnPrompt/goodcase.git
+cd goodcase
 npm ci
 npm run dev
 ```

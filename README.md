@@ -7,8 +7,8 @@
 [goodcase.ai](https://goodcase.ai) 的开源站点版本：clone 下来就能跑起同样的 UI，自带一组真实样例案例（含完整提示词与媒体）。
 
 ```bash
-git clone https://github.com/LearnPrompt/goodcase-lite.git
-cd goodcase-lite
+git clone https://github.com/LearnPrompt/goodcase.git
+cd goodcase
 npm ci
 npm run dev
 ```

@@ -15,6 +15,10 @@ cp -r skills/goodcase ~/.claude/skills/goodcase
 
 Lets AI agents query hand-curated viral AI cases from [goodcase.ai](https://goodcase.ai): real sources, creator attribution, full prompts, recommended models, stability scores and cost bands. Public API, no key required.
 
+接口连不上或被限流时，Skill 会改查随包附带的离线数据（`references/`，各分类稳定分最高的一批案例），并在回答里标明数据日期。
+
+When the API is unreachable or rate-limited, the skill falls back to the bundled offline snapshot in `references/` (the top cases by stability score in each category) and states the snapshot date in its answer.
+
 ## 用法 / Usage
 
 装好后直接问 Agent，例如：
@@ -22,5 +26,6 @@ Lets AI agents query hand-curated viral AI cases from [goodcase.ai](https://good
 - 「找几个 AI 视频的爆款案例」
 - 「有没有玻璃质感的图像 prompt」
 - 「这条 case 的完整提示词给我」
+- 「给我的公众号文章配张图」，选定一条后再说「用第 2 条，换成我的主题」
 
 Just ask your agent things like "show me viral AI video cases" or "find a prompt for glass-texture images" — the skill routes to the goodcase.ai public API automatically.

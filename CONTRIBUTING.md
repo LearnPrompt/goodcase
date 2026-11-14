@@ -12,8 +12,8 @@ The short version is in [README.md](./README.md) (中文) /
 [README_EN.md](./README_EN.md) (English):
 
 ```bash
-git clone https://github.com/LearnPrompt/goodcase-lite.git
-cd goodcase-lite
+git clone https://github.com/LearnPrompt/goodcase.git
+cd goodcase
 npm ci
 npm run dev
 ```
