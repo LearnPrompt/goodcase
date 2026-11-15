@@ -1,6 +1,6 @@
 {
   "schema": "goodcase-offline-v1",
-  "generatedAt": "2026-11-14T18:34:36.966Z",
+  "generatedAt": "2026-11-15T04:19:12.346Z",
   "source": "https://goodcase.ai（已发布案例，各分类按稳定分从高到低）",
   "file": "cases.json",
   "count": 400,
@@ -11,5 +11,5 @@
     "web": 130
   },
   "minStabilityScore": 80,
-  "bytes": 1596625
+  "bytes": 1596622
 }
