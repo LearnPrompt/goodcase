@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to doctorwasif. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to doctorwasif. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -63,7 +63,33 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped against a fitting-room mirror. Natural hand shake, imperfect framing, delayed focus, clumsy zooms, tape blur/noise, bloomed vanity lights, flickering auto-exposure, muted contrast, realistic skin. Playful, energetic backstage fitting-room vlog with quick pacing. CHASE: Korean idol in her 20s, long straight black hair, dewy glass skin, coral lips, large eyes, slim. Wears two fully modest stage outfits (1: fitted long-sleeve top + tailored trousers, 2: high-neck dress over long-sleeve base layer), minimal jewelry. Backstage fitting room with mirror, garment rack, stylist off-camera, pins/fabric clips. Sequence: outfit 1 mirror turn ("Okay, first outfit—let's see."), smooths fabric ("I really like this fit."), stylist pins waist (ambient only), playful spin ("Moves pretty well!"), quick change to outfit 2 ("Now let's compare."), compares ("More elegant, but the first had better movement."), close-up thinking ("I genuinely can't decide."), selfie spin ending ("I'll let the team decide—see you on stage!"). Camcorder never visible.
 
-### E4 · 训练后健身房 Vlog
+### E4 · 健身房自拍因暗恋分心掉了哑铃
+
+- Creator: @doctorwasif
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-dv-16mm-tape-camcorder-handheld-feel-7af91752e10c) · [finished media](https://media.goodcase.ai/cases/b94c5d7241d6.mp4) · [poster](https://media.goodcase.ai/cases/1210874751b5.jpg) · [original source](https://x.com/doctorwasif/status/2121113184706920701)
+- Summary: Gym Crush Interrupts her Set Vlog Made with Seedance 2.5 on @openart_ai prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camer…
+- Prompt excerpt:
+
+> **CAMERA:**
+> DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, often propped on a bench or rack for hands-free shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. The camera jolts and snaps toward the "crush" whenever she gets distracted. Camcorder never appears on screen.
+>
+> **LOOK:**
+> Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones. A touch of warm glow on the crush's side of the gym for comedic effect.
+>
+> **STYLE:**
+> Playful, relatable comedy-drama. She starts focused and confident, gets distracted, tries to act cool, and spirals into small embarrassing moments she plays off with a straight face. Quick handheld cuts, whispered asides to the lens, comedic timing built on glances and awkward pauses. No big dialogue from the crush, he stays a background figure.
+>
+> **Characters**
+>
+> CHASE: Korean idol, 20s. Long black hair in a high ponytail, glowing skin with a light sweat sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers or fitted leggings (arms and torso fully covered), sneakers, towel around neck, no jewelry.
+>
+> THE CRUSH: fictional young man, 20s, fit and casually good-looking, plain gym t-shirt and joggers, headphones on, completely unaware of her. Seen mostly in the background, out of focus or at a distance.
+>
+> **Setting**
+>
+> A gym in the early evening: dumbbell rack, mirror wall, a bench, cable machines two stations away, water bottl…
+
+### E5 · 训练后健身房 Vlog
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-314227c7545c) · [finished media](https://media.goodcase.ai/cases/d10c5d55f742.webm) · [poster](https://media.goodcase.ai/cases/d214dd09f572.jpg) · [original source](https://x.com/doctorwasif/status/2083048782581858681)
@@ -90,7 +116,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 2.5 七镜头手持手机 vlog 蒙太奇 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-06309648f9fa) | [Media](https://media.goodcase.ai/cases/64fae14bc37f.mp4) | [Original](https://x.com/doctorwasif/status/2089214508233638187) | E1 |
 | 偶像女孩的高强度间歇训练日志 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-653b4911153b) | [Media](https://media.goodcase.ai/cases/fcc46a8dcf17.mp4) | [Original](https://x.com/doctorwasif/status/2093191801763233991) | E2 |
 | Korean Idol Backstage Fitting Vlog | @doctorwasif | [GoodCase](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog) | [Media](https://media.goodcase.ai/media/video/korean-idol-backstage-fitting-vlog.mp4) | [Original](https://x.com/doctorwasif/status/2081353850779550056) | E3 |
-| 训练后健身房 Vlog | @doctorwasif | [GoodCase](https://goodcase.ai/cases/vlog-314227c7545c) | [Media](https://media.goodcase.ai/cases/d10c5d55f742.webm) | [Original](https://x.com/doctorwasif/status/2083048782581858681) | E4 |
+| 健身房自拍因暗恋分心掉了哑铃 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-2-5-dv-16mm-tape-camcorder-handheld-feel-7af91752e10c) | [Media](https://media.goodcase.ai/cases/b94c5d7241d6.mp4) | [Original](https://x.com/doctorwasif/status/2121113184706920701) | E4 |
+| 训练后健身房 Vlog | @doctorwasif | [GoodCase](https://goodcase.ai/cases/vlog-314227c7545c) | [Media](https://media.goodcase.ai/cases/d10c5d55f742.webm) | [Original](https://x.com/doctorwasif/status/2083048782581858681) | E5 |
 
 ## Derivation boundary
 

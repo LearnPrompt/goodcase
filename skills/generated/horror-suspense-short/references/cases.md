@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 46 published Cases across 24 creators.
+This workflow is derived from 47 published Cases across 25 creators.
 
 ## Operating rule
 
@@ -159,42 +159,52 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silence.
 
-### E8 · 列车车厢丧尸感染爆发
+### E8 · 雨夜霓虹中的白脸角色与悬疑抉择
 
-- Creator: @doctorwasif
-- Evidence: [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) · [finished media](https://media.goodcase.ai/cases/6af197589643.mp4) · [poster](https://media.goodcase.ai/cases/068a44904e52.jpg) · [original source](https://x.com/doctorwasif/status/2093550743945105687)
-- Summary: Apocalypse unleash in Train. Made with Seedance 2.5 Prompt: 0–1.2s: @ (Image) matching reference face/outfit, sits on a
+- Creator: @fuckscales
+- Evidence: [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) · [finished media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) · [poster](https://media.goodcase.ai/cases/296ef06d90de.jpg) · [original source](https://x.com/fuckscales/status/2119499299163922738)
+- Summary: NO F*CKING WAY... these "what would you do?" animated stories might be the next big thing on IG rn the craziest part? It took me 15 min and didnt even spend $$$…
 - Prompt excerpt:
 
-> 0–1.2s: @ (Image) matching reference face/outfit, sits on a train, pale, sweating, coughing weakly. Passengers glance over, concerned. Cinematic outbreak-horror realism.
+> NO F*CKING WAY...
 >
-> 1.2–2.4s: Her breathing turns ragged; dark veins appear on her neck, eyes become glassy. Close-up, tense lighting.
+> these "what would you do?" animated stories might be the next big thing on IG rn
 >
-> 2.4–3.6s: She collapses and convulses as passengers rush to help. Handheld camera.
+> the craziest part? It took me 15 min and didnt even spend $$$ to make it.
 >
-> 3.6–4.8s: She suddenly snaps upright, bloodshot feral eyes, guttural snarl. Extreme close-up horror reveal.
+> i made a free Claude Code prompt that recreates this entire style from scratch
 >
-> 4.8–6s: She violently bites a helper’s forearm. Shock and panic. Slow-motion impact.
+> steal the prompt before everyone catches on ↓
 >
-> 6–7.2s: He stumbles back clutching the bloody bite. Passengers panic.
+> <role>
+> Act as my AI animation director, scriptwriter, illustrator, and production engineer.
+> Create a high-quality, faceless 2D animated storytelling video inspired by my attached reference.
 >
-> 7.2–8.5s: Dark veins rapidly spread from the wound up his arm and neck. Visceral transformation close-up.
+> Use Claude Code, Python, HTML Canvas, SVG, FFmpeg, and available image/voice tools.
 >
-> 8.5–10s: He collapses, convulses, then rises as a zombie, eyes bloodshot and empty.
+> I want cinematic storytelling, illustrated environments, animated characters, dramatic transitions, infographics, and suspenseful narration.
 >
-> 10–12.5s: He lunges at another passenger. Screams erupt; the carriage descends into chaos.
+> NOT a slideshow. NOT 3D animation. Everything should feel like a professionally animated 2D film.
 >
-> 12.5–15.5s: Multiple passengers turn rapidly, spreading the infection through the car. Survivors flee toward the connecting door.
+> Build original characters, artwork, and stories rather than copying the reference.
+> </role>
 >
-> 15.5–18.5s: Survivors barricade the door with luggage and seat cushions as infected passengers claw and pound against it.
+> <reference>
+> First, analyze my attached MP4 using FFmpeg.
+> Study its visual style, colors, characters, lighting, camera movement, editing, narration, subtitles, and transitions.
 >
-> 18.5–21.5s: The door violently shudders; infected faces press against the glass. Cracks spread as panic intensifies.
+> The reference uses:
+> Dark cinematic 2D cartoon illustrations
 >
-> 21.5–24.5s: Families retreat as the glass shatters and infected arms break through, grabbing at survivors.
+> Deep teal, navy, black, and muted green shadows
 >
-> 24.5–27.5s: Survivors race toward the front, dragging luggage behind them as a zombie horde crashes through the barricade.
->
-> 27.5–30s: Survivors slam the next door shut and stare in horror as the infe…
+> Warm orange lighting, red neon, and rainy environments
+> Simple characters with white rounded faces, small eyes, and expressive body language
+> Detailed backgrounds with streets, cars, motel rooms, and interiors
+> Animated maps, counters, diagrams, and information cards
+> Slow cinematic zooms mixed with fast cuts
+> Dramatic sound design and suspenseful storytelling
+> A final interactive decision asking viewers…
 
 ## Evidence index
 
@@ -207,7 +217,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 韩国惊悚片电梯恐怖续写提示词 | @navi_Ai2 | [GoodCase](https://goodcase.ai/cases/case-5be984665a55) | [Media](https://media.goodcase.ai/cases/3740eeb93988.mp4) | [Original](https://x.com/navi_Ai2/status/2115811148796678209) | E5 |
 | 末日韩式天台恐怖片 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) | [Media](https://media.goodcase.ai/cases/f957750571e1.mp4) | [Original](https://x.com/doctorwasif/status/2090305873373810874) | E6 |
 | 消散的绳索吊桥峡谷 | @zyvaoz | [GoodCase](https://goodcase.ai/cases/case-f46706b10233) | [Media](https://media.goodcase.ai/media/video/case-f46706b10233.mp4) | [Original](https://x.com/zyvaoz/status/2081398750996746385) | E7 |
-| 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E8 |
+| 雨夜霓虹中的白脸角色与悬疑抉择 | @fuckscales | [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) | [Media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) | [Original](https://x.com/fuckscales/status/2119499299163922738) | E8 |
+| 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E— |
 | 午夜电梯里的镜像追猎 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | [Media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) | [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | E— |
 | 夜班列车感染爆发实录 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | [Media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) | [Original](https://x.com/doctorwasif/status/2098639106712784933) | E— |
 | 雨夜门廊上的诡异南瓜灯与惊恐男子 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-terrifying-halloween-night-unfolds-on-a-rain-soaked-wooden-porch-where-a-rea-1d5d12feaa79) | [Media](https://media.goodcase.ai/cases/73c176774b2b.mp4) | [Original](https://x.com/nawalsehar/status/2115022630004851185) | E— |
@@ -219,7 +230,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E— |
 | 女囚午夜监狱突然尸变爬行 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-ultra-photorealistic-korean-zombie-horror-sequence-set-inside-a-high-s-cfff73f4b731) | [Media](https://media.goodcase.ai/cases/374565a2e2d9.mp4) | [Original](https://x.com/AIwithSynthia/status/2119275943357546798) | E— |
 | 落日鬼镇枪手快枪解救人质 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-photorealistic-hollywood-western-action-sequ-67adba89a852) | [Media](https://media.goodcase.ai/cases/e2c2349d41f8.mp4) | [Original](https://x.com/Xaroon_x/status/2118289645855269290) | E— |
-| 黑裙女子在鬼村遭南瓜怪物追逐 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) | [Media](https://media.goodcase.ai/cases/9e234fe10127.mp4) | [Original](https://x.com/AIwithSynthia/status/2115064426315530749) | E— |
 
 ## Derivation boundary
 

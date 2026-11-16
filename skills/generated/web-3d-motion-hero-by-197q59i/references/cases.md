@@ -151,7 +151,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E4 · Claude Mythos：Lithos 地质品牌 Hero
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-mythos-lithos-hero-df0603661e88) · [finished media](https://media.goodcase.ai/media/video/claude-mythos-lithos-hero-df0603661e88.mp4) · [poster](https://media.goodcase.ai/media/poster/claude-mythos-lithos-hero-df0603661e88.jpg) · [original source](https://x.com/viktoroddy/status/2065418614627602509)
+- Evidence: [GoodCase](https://goodcase.ai/cases/claude-mythos-lithos-hero-df0603661e88) · [finished media](https://media.goodcase.ai/media/video/claude-mythos-lithos-hero-df0603661e88.mp4) · [poster](https://media.goodcase.ai/cases/3192814c273f.jpg) · [original source](https://x.com/viktoroddy/status/2065418614627602509)
 - Summary: @viktoroddy 使用 Claude Mythos完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -307,7 +307,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E8 · GPT Image 2 + Veo 3 + Lovable 营销站
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-veo-3-lovable-cec7a074af1a) · [finished media](https://media.goodcase.ai/media/video/gpt-image-2-veo-3-lovable-cec7a074af1a.mp4) · [poster](https://media.goodcase.ai/media/poster/gpt-image-2-veo-3-lovable-cec7a074af1a.jpg) · [original source](https://x.com/viktoroddy/status/2054291040379842795)
+- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-veo-3-lovable-cec7a074af1a) · [finished media](https://media.goodcase.ai/media/video/gpt-image-2-veo-3-lovable-cec7a074af1a.mp4) · [poster](https://media.goodcase.ai/cases/acae90d8516e.jpg) · [original source](https://x.com/viktoroddy/status/2054291040379842795)
 - Summary: @viktoroddy 使用 GPT Image 2 · Veo 3 · Lovable完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
