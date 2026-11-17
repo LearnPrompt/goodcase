@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 68 published Cases across 36 creators.
+This workflow is derived from 69 published Cases across 36 creators.
 
 ## Operating rule
 
@@ -195,9 +195,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 几何小鸟动画与好奇心笔记本实拍混剪 | @fuckscales | [GoodCase](https://goodcase.ai/cases/gpt-image-2-i-just-killed-kurzgesagt-style-with-1-claude-opus-prompt-73dcac7b7966) | [Media](https://media.goodcase.ai/cases/34e42719bf00.mp4) | [Original](https://x.com/fuckscales/status/2118801134924288456) | E— |
 | 猫咪外卖员偷吃披萨后骑车逃跑 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/kling-pov-your-pizza-delivery-guy-ate-your-slice-and-ran-d44b0e2c60a7) | [Media](https://media.goodcase.ai/cases/df5bf5bceb90.mp4) | [Original](https://x.com/Strength04_X/status/2105889942958440671) | E— |
 | 橘猫的柔彩动态个性秀 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-elegant-motion-graphics-driven-personality-reveal-short-in-16-9-exac-899747600e79) | [Media](https://media.goodcase.ai/cases/8474b7c70be7.mp4) | [Original](https://x.com/Chaemate_/status/2099698470500401562) | E— |
+| 红调漫画风猫耳偶像动漫开场 | @aimikoda | [GoodCase](https://goodcase.ai/cases/minimax-h3-using-these-clips-and-the-song-create-a-highly-polished-professional-anime-op-01f3f8676223) | [Media](https://media.goodcase.ai/cases/4b9b49c21deb.mp4) | [Original](https://x.com/aimikoda/status/2121362621274177726) | E— |
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
 | 女子为巨型布偶猫洗澡吹毛 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579) | [Media](https://media.goodcase.ai/cases/6909650e7197.mp4) | [Original](https://x.com/Aiwithmaha/status/2110921969420177453) | E— |
-| 女孩与巨型白狗吉祥物的球场嬉戏 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-basketball-gets-a-whole-lot-more-fun-with-a-giant-fluffy-opponent-1b871f4125da) | [Media](https://media.goodcase.ai/cases/5c9d1624612e.mp4) | [Original](https://x.com/ayzalnooor24521/status/2107340030536741222) | E— |
 
 ## Derivation boundary
 

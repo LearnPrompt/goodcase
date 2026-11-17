@@ -137,7 +137,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E6 · Mermaid Rescue Cinematic Story
 
 - Creator: @AIwithNatalia
-- Evidence: [GoodCase](https://goodcase.ai/cases/mermaid-rescue-cinematic-story) · [finished media](https://media.goodcase.ai/media/video/mermaid-rescue-cinematic-story.mp4) · [poster](https://media.goodcase.ai/media/poster/mermaid-rescue-cinematic-story.jpg) · [original source](https://x.com/AIwithNatalia/status/2087462551210659906)
+- Evidence: [GoodCase](https://goodcase.ai/cases/mermaid-rescue-cinematic-story) · [finished media](https://media.goodcase.ai/media/video/mermaid-rescue-cinematic-story.mp4) · [poster](https://media.goodcase.ai/cases/60c474c820c3.jpg) · [original source](https://x.com/AIwithNatalia/status/2087462551210659906)
 - Summary: A multi-scene cinematic prompt telling the story of a sailor rescued from a shipwreck by a mysterious mermaid.
 - Prompt excerpt:
 

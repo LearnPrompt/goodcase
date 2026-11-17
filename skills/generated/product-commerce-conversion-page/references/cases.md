@@ -107,7 +107,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · 极简 AI 顾问个人作品集
 
 - Creator: @shushant_l
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) · [finished media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) · [poster](https://media.goodcase.ai/media/poster/ai-0f055800c6f5.jpg) · [original source](https://x.com/shushant_l/status/2065041466951712940)
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) · [finished media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) · [poster](https://media.goodcase.ai/cases/e8dff7e29763.jpg) · [original source](https://x.com/shushant_l/status/2065041466951712940)
 - Summary: @shushant_l 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 

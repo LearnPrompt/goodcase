@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 动态口语诗电影提示词
 
 - Creator: @techhalla
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1247334c2204) · [finished media](https://media.goodcase.ai/cases/65980be85446.mp4) · [poster](https://media.goodcase.ai/cases/96aa6c2a97c3.jpg) · [original source](https://x.com/techhalla/status/2103411244468498547)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1247334c2204) · [finished media](https://media.goodcase.ai/cases/65980be85446.mp4) · [poster](https://media.goodcase.ai/cases/ee0c90a01626.jpg) · [original source](https://x.com/techhalla/status/2103411244468498547)
 - Summary: 一个高度详细的提示词，用于创作一部名为“BUILD THE FLOOR”的 20 秒动态口语诗电影，指定了艺术指导、演讲内容、视觉规则、分镜脚本和工程约束。
 - Prompt excerpt:
 
@@ -36,7 +36,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · 波特兰公交服务地图动画
 
 - Creator: @milos_gis
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-3003770cb528) · [finished media](https://media.goodcase.ai/cases/8535ce0c6ac4.mp4) · [poster](https://media.goodcase.ai/cases/71a61fb2ecf4.jpg) · [original source](https://x.com/milos_gis/status/2103751211040317580)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-3003770cb528) · [finished media](https://media.goodcase.ai/cases/8535ce0c6ac4.mp4) · [poster](https://media.goodcase.ai/cases/15e8f7f23593.jpg) · [original source](https://x.com/milos_gis/status/2103751211040317580)
 - Summary: 使用 GTFS 数据和 Three.js/Forge3d，创建一个波特兰公交服务路线的 3D 地图可视化动画，展示普通周二期间车辆在各社区间的运行轨迹，采用浅色主题。
 - Prompt excerpt:
 
@@ -45,7 +45,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · 用 GSAP 和 Three.js 写代码做高端动效视频
 
 - Creator: @everestchris6
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-48175d8e8ac4) · [finished media](https://media.goodcase.ai/cases/f0b654c82794.mp4) · [poster](https://media.goodcase.ai/cases/10c13d474cd1.jpg) · [original source](https://x.com/everestchris6/status/2104965415164399895)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-48175d8e8ac4) · [finished media](https://media.goodcase.ai/cases/f0b654c82794.mp4) · [poster](https://media.goodcase.ai/cases/b63f16650551.jpg) · [original source](https://x.com/everestchris6/status/2104965415164399895)
 - Summary: 一份全面的系统提示词，用于使用 GSAP 和 Three.js 生成高端动态视频，涵盖设置、参考研究及运动原则。
 - Prompt excerpt:
 
@@ -101,7 +101,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E6 · 什么是 Transformer Explainer
 
 - Creator: @dotey
-- Evidence: [GoodCase](https://goodcase.ai/cases/transformer-explainer-7d2aa7449fc4) · [finished media](https://media.goodcase.ai/cases/68536239806b.mp4) · [poster](https://media.goodcase.ai/cases/ef95ea0eb814.jpg) · [original source](https://x.com/dotey/status/2103683057689522564)
+- Evidence: [GoodCase](https://goodcase.ai/cases/transformer-explainer-7d2aa7449fc4) · [finished media](https://media.goodcase.ai/cases/68536239806b.mp4) · [poster](https://media.goodcase.ai/cases/d4a552d042ce.jpg) · [original source](https://x.com/dotey/status/2103683057689522564)
 - Summary: 用于创建基于 JS 的视频的提示词，旨在以高中生也能理解的方式深入讲解 Transformer 架构的技术细节。
 - Prompt excerpt:
 

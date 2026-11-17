@@ -75,7 +75,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Use realistic snow physics, natural body movement, detailed mountain textures, crisp sunlight, cinematic camera movement, slight motion blur, dramatic wide-angle aerial shots, and an energetic luxury sports-commercial aesthetic. Vertical 9:16, ultra-realistic, high detail, smooth transitions, natural lighting, 4K cinematic quality.
 
-### E6 · Claude Code：these "what would you do?" animated stories might be the next big thing on IG rn
+### E6 · 雨夜霓虹中的白脸角色与悬疑抉择
 
 - Creator: @fuckscales
 - Evidence: [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) · [finished media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) · [poster](https://media.goodcase.ai/cases/296ef06d90de.jpg) · [original source](https://x.com/fuckscales/status/2119499299163922738)
@@ -159,7 +159,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E3 |
 | 高山雪场女子单板腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) | [Original](https://x.com/ayzalnooor24521/status/2094243156225315270) | E4 |
 | 女单板滑雪者高山飞跃 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) | [Media](https://media.goodcase.ai/cases/662ea00b9012.mp4) | [Original](https://x.com/CaliraVal/status/2094640598733234488) | E5 |
-| Claude Code：these "what would you do?" animated stories might be the next big thing on IG rn | @fuckscales | [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) | [Media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) | [Original](https://x.com/fuckscales/status/2119499299163922738) | E6 |
+| 雨夜霓虹中的白脸角色与悬疑抉择 | @fuckscales | [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) | [Media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) | [Original](https://x.com/fuckscales/status/2119499299163922738) | E6 |
 | 街头球场变向突破暴扣 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) | [Media](https://media.goodcase.ai/cases/8d884fea7647.mp4) | [Original](https://x.com/im_shahid7/status/2092933907218092451) | E7 |
 | 粉黑街头少女极限跑酷揭幕 | @AIwithJessica | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) | [Media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) | [Original](https://x.com/AIwithJessica/status/2094944595511779578) | E8 |
 | 女孩被萌犬追成街头跑酷 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87) | [Media](https://media.goodcase.ai/media/video/missdelulu9-seedance-ai-cc2834a3dc87.mp4) | [Original](https://x.com/MissDelulu9/status/2092578120591446348) | E— |

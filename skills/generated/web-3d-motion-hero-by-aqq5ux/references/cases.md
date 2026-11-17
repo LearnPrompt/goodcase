@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 3D Animated Pin
 
 - Creator: Aceternity UI
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-animated-pin) · [finished media](https://media.goodcase.ai/cases/0b778c9ee5bc.mp4) · [poster](https://media.goodcase.ai/cases/8195c4300c24.webp) · [original source](https://ui.aceternity.com/components/3d-pin)
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-animated-pin) · [finished media](https://media.goodcase.ai/cases/0b778c9ee5bc.mp4) · [poster](https://media.goodcase.ai/cases/9d9c82659bf7.jpg) · [original source](https://ui.aceternity.com/components/3d-pin)
 - Summary: 复制这段 TSX 组件源码，交给 Cursor、v0、Claude 等 AI 编程工具，说明这是「3D Animated Pin」的 Aceternity UI 组件实现，即可让它接入你的 React 项目，再按需替换文案、配色与触发参数复用。
 - Prompt excerpt:
 
@@ -273,7 +273,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E5 · Animated Tabs
 
 - Creator: Aceternity UI
-- Evidence: [GoodCase](https://goodcase.ai/cases/animated-tabs) · [finished media](https://media.goodcase.ai/cases/ee1949cbe51d.mp4) · [poster](https://media.goodcase.ai/cases/e52e13bc107d.webp) · [original source](https://ui.aceternity.com/components/tabs)
+- Evidence: [GoodCase](https://goodcase.ai/cases/animated-tabs) · [finished media](https://media.goodcase.ai/cases/ee1949cbe51d.mp4) · [poster](https://media.goodcase.ai/cases/90e68d502f6b.jpg) · [original source](https://ui.aceternity.com/components/tabs)
 - Summary: 复制这段 TSX 组件源码，交给 Cursor、v0、Claude 等 AI 编程工具，说明这是「Animated Tabs」的 Aceternity UI 组件实现，即可让它接入你的 React 项目，再按需替换文案、配色与触发参数复用。
 - Prompt excerpt:
 
