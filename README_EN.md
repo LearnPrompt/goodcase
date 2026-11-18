@@ -26,7 +26,7 @@ Two things.
 
 The goodcase query skill above, in `skills/goodcase`.
 
-And 109 skills extracted from popular cases on goodcase.ai, in `skills/generated`. Each skill is one directory with a SKILL.md and its example cases: 69 for video, 25 for image, 15 for web. To install a single one, put its slug into this command:
+And 112 skills extracted from popular cases on goodcase.ai, in `skills/generated`. Each skill is one directory with a SKILL.md and its example cases: 70 for video, 27 for image, 15 for web. To install a single one, put its slug into this command:
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
@@ -40,7 +40,7 @@ A skill marked Stable has had at least 3 of its example cases rerun, with 80% or
 
 Stable describes reruns of the examples' original prompts. New content you generate with the skill has not been tested.
 
-As of 2026-11-15, 48 of the 109 extracted skills are Stable. That count covers the whole site: video, image and web. It changes as more reruns come in, and [goodcase.ai/skills](https://goodcase.ai/skills?utm_source=goodcase-repo&utm_medium=github&utm_campaign=readme-en&utm_content=stable) has the current state. Of the rest, some have fewer than 3 examples tested so far and are marked Awaiting tests, some were tested and fell below the bar, and some cannot be tested yet.
+As of 2026-11-19, 48 of the 112 extracted skills are Stable. That count covers the whole site: video, image and web. It changes as more reruns come in, and [goodcase.ai/skills](https://goodcase.ai/skills?utm_source=goodcase-repo&utm_medium=github&utm_campaign=readme-en&utm_content=stable) has the current state. Of the rest, some have fewer than 3 examples tested so far and are marked Awaiting tests, some were tested and fell below the bar, and some cannot be tested yet.
 
 ## Cases and side-by-side reruns
 
