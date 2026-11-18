@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 37 published Cases across 33 creators.
+This workflow is derived from 40 published Cases across 36 creators.
 
 ## Operating rule
 
@@ -122,7 +122,28 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Dramatic sound design and suspenseful storytelling
 > A final interactive decision asking viewers…
 
-### E7 · 街头球场变向突破暴扣
+### E7 · 热气球少年穿越八个奇幻世界
+
+- Creator: @0xMovez
+- Evidence: [GoodCase](https://goodcase.ai/cases/claude-fable-5-2-create-a-3d-animated-short-film-for-the-web-3a5e16c5ac79) · [finished media](https://media.goodcase.ai/cases/84e6473eee5b.mp4) · [poster](https://media.goodcase.ai/cases/a539b06c9171.jpg) · [original source](https://x.com/0xMovez/status/2121001440470577157)
+- Summary: Fable 5.2 is absolutely f*cking insane for film animation. i made this 2-minutes animated short with Fable 5.2 without writing a single line of code.. and it's …
+- Prompt excerpt:
+
+> Prompt:
+>
+> Create a 3D animated short film for the web. It must look like a still-by-still excerpt from a finished theatrical animated feature: painterly, glowing storybook 3D with rich, realistic materials. Not a tech demo, not a game scene, not low-poly art.
+>
+> Deliver two things: a web page that plays the film in real time, and a 1920x1080, 30 fps MP4 rendered frame by frame from the same code, with a fully synthesized soundtrack. Pure three.js. No video model, no image model, no external assets, no audio samples. Use any tools, libraries, references and guides you want, and split the work across parallel agents if it helps (hero, one world each, optics, sound).
+>
+> The hero is an original character: a little boy astronaut in an oversized cream retro spacesuit with orange accents, a glass fishbowl helmet, tousled copper-red hair and a brass spyglass. He rides in a wicker basket (sandbags, a hooked lantern, coiled rope) under a patched, striped storybook hot-air balloon in cream, faded red, mustard and dusty teal. Pennants and long ribbons trail behind. When the burner fires, the whole balloon glows from inside like a paper lantern. That warm glow is the one constant light of the film. No dialogue and no text on screen.
+>
+> SCENE
+>
+> One journey through eight worlds, from sunset through night to dawn. Each world gets two shots of about six seconds: a wide establishing shot with the balloon small against something huge, then a close or contrasting angle. Dip to black between worlds. About 100 seconds in total.
+>
+> 1. Sea of Clouds. Sunset above an endless sea of clouds. A sky whale breach…
+
+### E8 · 街头球场变向突破暴扣
 
 - Creator: @im_shahid7
 - Evidence: [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) · [finished media](https://media.goodcase.ai/cases/8d884fea7647.mp4) · [poster](https://media.goodcase.ai/cases/54d3a5538fe4.jpg) · [original source](https://x.com/im_shahid7/status/2092933907218092451)
@@ -141,15 +162,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Static Description
 > An empty urban street basketball court with a faded free…
 
-### E8 · 粉黑街头少女极限跑酷揭幕
-
-- Creator: @AIwithJessica
-- Evidence: [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) · [finished media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) · [poster](https://media.goodcase.ai/media/poster/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.jpg) · [original source](https://x.com/AIwithJessica/status/2094944595511779578)
-- Summary: She didn’t walk in. She shattered the frame. BTS isn’t a logo. It’s a shockwave. A girl who treats every letter like a l
-- Prompt excerpt:
-
-> Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13 distinct cuts, 24fps. BTS is a cool, composed anime streetwear girl with long voluminous wavy hair that is jet-black at the roots and mid-lengths with vivid hot-pink streaks and highlights throughout, messy side-swept bangs, a high messy ponytail secured by a black scrunchie with a pink accent bow, ocean-blue eyes with sharp winged black eyeliner, a slim black choker printed with pink “BTS”, an oversized white zip-up hooded windbreaker covered in pink BTS logos, pink stripes and sleeve text, a white crop top centered with a large pink BTS emblem, matching white cargo-style pants with pink BTS branding down the legs and pink drawstring details, chunky white-and-pink platform sneakers, and a pink BTS tote bag. Preserve her exact face, proportions, hairstyle, outfit, materials, accessories and colors throughout; never redesign her. This film is 80% bold graphic design in motion and 20% character action: giant kinetic typography, hard-edged shapes, split-screens, flat color fields, barcode strips, UI ticks, halftone, speed lines, butterfly trails and shutter flashes. Palette: hot pink, lavender-purple, white, black, silver-grey (BTS logo gradient). Style: premium AAA motion-graphics title sequence x K-pop streetwear campaign film. Every graphic element moves fast and snaps hard on the beat. CUT 01 | 0.00-1.00s - Pure graphics: a massive hot-pink circle slams onto a white field, two black bars wipe across, tiny UI ticks and a barcode strip flicker; the letters B, T and S punch in one after a…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -160,8 +172,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 高山雪场女子单板腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) | [Original](https://x.com/ayzalnooor24521/status/2094243156225315270) | E4 |
 | 女单板滑雪者高山飞跃 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) | [Media](https://media.goodcase.ai/cases/662ea00b9012.mp4) | [Original](https://x.com/CaliraVal/status/2094640598733234488) | E5 |
 | 雨夜霓虹中的白脸角色与悬疑抉择 | @fuckscales | [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) | [Media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) | [Original](https://x.com/fuckscales/status/2119499299163922738) | E6 |
-| 街头球场变向突破暴扣 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) | [Media](https://media.goodcase.ai/cases/8d884fea7647.mp4) | [Original](https://x.com/im_shahid7/status/2092933907218092451) | E7 |
-| 粉黑街头少女极限跑酷揭幕 | @AIwithJessica | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) | [Media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) | [Original](https://x.com/AIwithJessica/status/2094944595511779578) | E8 |
+| 热气球少年穿越八个奇幻世界 | @0xMovez | [GoodCase](https://goodcase.ai/cases/claude-fable-5-2-create-a-3d-animated-short-film-for-the-web-3a5e16c5ac79) | [Media](https://media.goodcase.ai/cases/84e6473eee5b.mp4) | [Original](https://x.com/0xMovez/status/2121001440470577157) | E7 |
+| 街头球场变向突破暴扣 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) | [Media](https://media.goodcase.ai/cases/8d884fea7647.mp4) | [Original](https://x.com/im_shahid7/status/2092933907218092451) | E8 |
+| 红超跑化机甲公路激战紫眼异兽 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/minimax-h3-cinematic-action-scene-on-a-multi-lane-city-highway-surrounded-by-skyscrapers-a-a27ebf755615) | [Media](https://media.goodcase.ai/cases/34d5272e2ff2.mp4) | [Original](https://x.com/laviniavelle/status/2120011460541632964) | E— |
+| 粉黑街头少女极限跑酷揭幕 | @AIwithJessica | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) | [Media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) | [Original](https://x.com/AIwithJessica/status/2094944595511779578) | E— |
 | 女孩被萌犬追成街头跑酷 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87) | [Media](https://media.goodcase.ai/media/video/missdelulu9-seedance-ai-cc2834a3dc87.mp4) | [Original](https://x.com/MissDelulu9/status/2092578120591446348) | E— |
 | 女子车手险胜山地自行车决赛 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) | [Original](https://x.com/nawalsehar/status/2094294374381441152) | E— |
 | Seedance 单板滑雪地形公园流畅滑行短片 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) | [Original](https://x.com/nawalsehar/status/2088854230626865490) | E— |
@@ -172,8 +186,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 微缩女子的家电卖场跑酷冒险 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893) | [Media](https://media.goodcase.ai/cases/66f3c9b854f4.mp4) | [Original](https://x.com/AIwithSynthia/status/2115416926092746987) | E— |
 | 微缩女子的便利店跑酷冒险 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd) | [Media](https://media.goodcase.ai/cases/e57a891dd0ed.mp4) | [Original](https://x.com/AIwithkhan/status/2106397932304191969) | E— |
 | 女子夜奔地铁滑入安全区闸门 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-ci-f278c2a5757d) | [Media](https://media.goodcase.ai/cases/b6fec33460fd.mp4) | [Original](https://x.com/doctorwasif/status/2117239135169908817) | E— |
-| 女子在夜间粉色球场滑着滑板打网球 | @AIwithNatalia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5) | [Media](https://media.goodcase.ai/cases/6d94ac862edd.mp4) | [Original](https://x.com/AIwithNatalia/status/2107056982163402833) | E— |
-| 中世纪庭院里少女与绿龙共制薄饼 | @Arzoo12sh | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-stunning-30-second-cinematic-fantasy-video-in-ultra-realistic-4k-quali-52d799367a5f) | [Media](https://media.goodcase.ai/cases/00589177b3dd.mp4) | [Original](https://x.com/Arzoo12sh/status/2117089440489431112) | E— |
 
 ## Derivation boundary
 

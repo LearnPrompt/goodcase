@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 35 published Cases across 25 creators.
+This workflow is derived from 37 published Cases across 25 creators.
 
 ## Operating rule
 
@@ -133,14 +133,14 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 摩托车疾驰山间公路 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | [Media](https://media.goodcase.ai/cases/e74284637136.mp4) | [Original](https://x.com/Just_sharon7/status/2091546827212636576) | E— |
 | Karakoram Motorcycle Commercial | @AI_with_Antonio | [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | [Media](https://media.goodcase.ai/cases/f702b148dbed.mp4) | [Original](https://x.com/AI_with_Antonio/status/2088599346908365227) | E— |
 | 女骑手开飞行跑车穿越曼哈顿送咖啡 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/kling-shot-1-0-6-seconds-5115ccd5f353) | [Media](https://media.goodcase.ai/cases/6822ed2073d4.mp4) | [Original](https://x.com/AIwithSynthia/status/2113600946228138078) | E— |
+| 红超跑化机甲公路激战紫眼异兽 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/minimax-h3-cinematic-action-scene-on-a-multi-lane-city-highway-surrounded-by-skyscrapers-a-a27ebf755615) | [Media](https://media.goodcase.ai/cases/34d5272e2ff2.mp4) | [Original](https://x.com/laviniavelle/status/2120011460541632964) | E— |
 | 第一视角凌空组装黑色兰博基尼 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | [Media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) | [Original](https://x.com/MissDelulu9/status/2091423578197737772) | E— |
 | 地下车库中黑色液态金属化为宝马跑车 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-hyper-realistic-cinematic-shot-in-a-dimly-lit-underground-concrete-parking-g-36e73a5589c3) | [Media](https://media.goodcase.ai/cases/179db7bf7a35.mp4) | [Original](https://x.com/itsSaira_1/status/2109495654607446267) | E— |
 | 跑车、摩托、坦克与战机变身机甲 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) | [Media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) | [Original](https://x.com/laviniavelle/status/2108404878590857384) | E— |
 | 皮衣女子驾白玛莎拉蒂夜抵天际线 | @codewithhajra | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-white-maserati-emerges-slowly-from-a-luxurious-underground-parking-entrance-a-36a8f1f791fd) | [Media](https://media.goodcase.ai/cases/4a567303506f.mp4) | [Original](https://x.com/codewithhajra/status/2120033593682518407) | E— |
 | 落日公路上粉发少女伸手向星空 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cartoon-appearance-anime-style-artificial-skin-distorted-faces-changing-hai-473dec637d64) | [Media](https://media.goodcase.ai/cases/8564e8545f30.mp4) | [Original](https://x.com/Just_sharon7/status/2118685486122520712) | E— |
+| 女骑手在海岸公路伸手触碰黑豹 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-hyper-realistic-cinematic-4k-video-in-16-9-aspect-ratio-24-fps-featu-7e91ba9f6151) | [Media](https://media.goodcase.ai/cases/bde29a8e79b6.mp4) | [Original](https://x.com/itsSaira_1/status/2121817354279510226) | E— |
 | 摩托手飞跃坍塌的金门大桥 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-one-continuous-ultra-realistic-hollywood-action-sequence-with-cinematic-411ad1cc40ef) | [Media](https://media.goodcase.ai/cases/83100f896d04.mp4) | [Original](https://x.com/Xaroon_x/status/2121182211361619988) | E— |
-| 白色超跑飞越首尔江面降落楼顶 | @aiwithaayat | [GoodCase](https://goodcase.ai/cases/seedance-2-5-created-a-video-30-second-featuring-a-futuristic-white-supercar-driving-throu-f4b0d3637ef0) | [Media](https://media.goodcase.ai/cases/7dc3776da6dc.mp4) | [Original](https://x.com/aiwithaayat/status/2112025080335339907) | E— |
-| 摩托骑士公路追击绑匪营救女子 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) | [Media](https://media.goodcase.ai/cases/ad17462a0159.mp4) | [Original](https://x.com/Xaroon_x/status/2115374004529664166) | E— |
 
 ## Derivation boundary
 

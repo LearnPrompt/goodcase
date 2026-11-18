@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 19 creators.
+This workflow is derived from 31 published Cases across 19 creators.
 
 ## Operating rule
 
@@ -116,14 +116,33 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — creamy vanilla white, vivid red cherry, pure white whipped cream, chrome counter shine, warm diner neon glow, checkered floor red and white. Top header: THE MILKSHAKE MAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · THICK · CREAMY · CLASSIC DINER Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male soda jerk throughout — warm friendly smile, white paper hat, red bow tie, classic American diner setting, chrome counter, red vinyl stools, checkered floor, neon sign glowing in the window, warm afternoon light. 8 panels: Panel 1 — THE OPENER: Wide action shot. Soda jerk tosses the metal blender cup up with one hand and locks it firmly onto the mixer base with a confident flick of his wrist — motion frozen mid-action, his focused smile visible. Chrome counter, red vinyl stools and checkered floor visible around him. Different from the standing-and-presenting energy — this is action from frame one. Panel 2 — THE SCOOP: Close-up. Ice cream scoop digging deep into a tub of creamy vanilla ice cream — thick generous scoops lifted out and dropped into the metal blender cup one after another. Panel 3 — THE MILK: Wide medium with him fully visible. Soda jerk tilts a glass milk bottle, pouring a thick steady stream into the blender cup over the ice cream — his face focused, posture leaning slightly forward. Character back in frame. Panel 4 — THE BLEND: Dramatic…
 
-### E8 · Erling Haaland 黏土动画园艺
+### E8 · 卡通片《空椅》：间谍监听与对华禁购
 
-- Creator: @noorwithwifi
-- Evidence: [GoodCase](https://goodcase.ai/cases/erling-haaland-525acabe78da) · [finished media](https://media.goodcase.ai/media/video/erling-haaland-525acabe78da.mp4) · [poster](https://media.goodcase.ai/media/poster/erling-haaland-525acabe78da.jpg) · [original source](https://x.com/noorwithwifi/status/2079818537137475762)
-- Summary: 一个关于足球明星 Erling Haaland 种植韭菜的幽默 3D 黏土动画提示词，包含生动的角色动作和奇幻的灯光效果。
+- Creator: @daodao166888
+- Evidence: [GoodCase](https://goodcase.ai/cases/daodao166888-midjourney-ai-8fab1ab60ee6) · [finished media](https://media.goodcase.ai/cases/60330e7b02b3.mp4) · [poster](https://media.goodcase.ai/cases/61c72f418d2d.jpg) · [original source](https://x.com/daodao166888/status/2121583942797230479)
+- Summary: 不露脸、用卡通讲商业故事 开号不到一周，4条视频，涨粉1.84万 总播放突破462万，单条最高播放突破250万 对照样本频道 @PaperBillionsTV 我拆下来，更值得注意的是人家怎么选题：英伟达为什么离不开黄仁勋？股市为什么突然暴跌？史上最大IPO怎么损失了800亿美元？ 这些问题，哪怕你不懂财经，也想点进去…
 - Prompt excerpt:
 
-> Create a 3D claymation-style animation of a cute caricature of Erling Haaland wearing Norway's red number 9 football kit, white shorts, red socks, and red boots, with his signature blonde ponytail, walking across a simple muted green background while carrying a giant leek on his shoulder and a bucket of harvested leeks. He stops at a dirt mound, digs a deep hole with a hand trowel, plants the giant leek firmly into the soil, pats it down, then takes out his smartphone, flashes a peace sign with a playful wink, and captures a celebratory selfie. Smooth, expressive character animation with whimsical, humorous, cinematic lighting.
+> 不露脸、用卡通讲商业故事
+>
+> 开号不到一周，4条视频，涨粉1.84万
+> 总播放突破462万，单条最高播放突破250万
+>
+> 对照样本频道 @PaperBillionsTV
+> 我拆下来，更值得注意的是人家怎么选题：英伟达为什么离不开黄仁勋？股市为什么突然暴跌？史上最大IPO怎么损失了800亿美元？
+> 这些问题，哪怕你不懂财经，也想点进去看看
+>
+> AI 让视频好做了不少
+> 我拆下来，更像人家先找准了当下最炸的科技金融新闻（英伟达间谍事件、黄仁勋辞职、Anthropic巨亏80亿），用故事化动画讲清楚普通人本来就会搜、会刷的问题
+>
+> 想照做，先停在这一步
+> ① 打开YouTube搜索，找近7-15天还在猛涨、标题一眼能看懂的老问题或刚爆的大新闻
+> ② 只记有明确人物、冲突和后果的题，写成对照样本笔记：频道名、条数、粉、单条播放、标题和封面
+> ③ 用你手头现成的流程先出一条最短能测的片
+>
+> 复刻类似这种商业故事 + 财经知识 + 卡通演绎的频道，核心在于把资料研究转化为普通人愿意看、看得懂的故事，以及保持统一、有辨识度的视觉风格
+>
+> 以下是我为大家整理的全套提示词模板，可以直接复制到 ChatGPT、Claude 或 Midjourney 中使用：
 
 ## Evidence index
 
@@ -136,7 +155,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 黏土风格海盗鸭冒险 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-21aab321f762) | [Media](https://media.goodcase.ai/media/video/case-21aab321f762.mp4) | [Original](https://x.com/CharaspowerAI/status/2078072313686184334) | E5 |
 | 黏土动画猫咪世界大变身 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/case-6152b0808b14) | [Media](https://media.goodcase.ai/media/video/case-6152b0808b14.mp4) | [Original](https://x.com/noorwithwifi/status/2078535850745626926) | E6 |
 | 皮克斯风格奶昔故事板动画 | @gptproto | [GoodCase](https://goodcase.ai/cases/case-749c98da9b7d) | [Media](https://media.goodcase.ai/media/video/case-749c98da9b7d.mp4) | [Original](https://x.com/gptproto/status/2071501518679998922) | E7 |
-| Erling Haaland 黏土动画园艺 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/erling-haaland-525acabe78da) | [Media](https://media.goodcase.ai/media/video/erling-haaland-525acabe78da.mp4) | [Original](https://x.com/noorwithwifi/status/2079818537137475762) | E8 |
+| 卡通片《空椅》：间谍监听与对华禁购 | @daodao166888 | [GoodCase](https://goodcase.ai/cases/daodao166888-midjourney-ai-8fab1ab60ee6) | [Media](https://media.goodcase.ai/cases/60330e7b02b3.mp4) | [Original](https://x.com/daodao166888/status/2121583942797230479) | E8 |
+| Erling Haaland 黏土动画园艺 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/erling-haaland-525acabe78da) | [Media](https://media.goodcase.ai/media/video/erling-haaland-525acabe78da.mp4) | [Original](https://x.com/noorwithwifi/status/2079818537137475762) | E— |
 | Seedance 三十秒 3D 动画喜剧：妈妈断了 WiFi 之后 | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526) | [Media](https://media.goodcase.ai/cases/8a80979ee021.mp4) | [Original](https://x.com/JuliaClarky/status/2089592644725043368) | E— |
 | 黏土动画讲述奥德修斯之旅 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/kling-asked-kling-ai-mcp-to-turn-a-simple-idea-into-a-claymation-explainer-0673dc5a6e22) | [Media](https://media.goodcase.ai/cases/45294dc44233.mp4) | [Original](https://x.com/Caden_Flux/status/2098097531851047001) | E— |
 | 黏土定格迷你能多益咖啡馆 | @MayaAiCreator | [GoodCase](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8) | [Media](https://media.goodcase.ai/cases/8c1002d79847.mp4) | [Original](https://x.com/MayaAiCreator/status/2091397686104588650) | E— |
@@ -148,7 +168,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 石屋炉火旁，女子悄悄喂养粉色幼龙 | @Adnan_Ai2 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-a5f5eb84df64) | [Media](https://media.goodcase.ai/cases/ed3b2e5bd263.mp4) | [Original](https://x.com/Adnan_Ai2/status/2113451899013996748) | E— |
 | 宠物幼龙偷吃晚餐引发庭院闹剧 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-2-5-pure-cinematic-chaos-created-with-seedance-2-5-on-6d2ba401d257) | [Media](https://media.goodcase.ai/cases/76c9584a5d77.mp4) | [Original](https://x.com/itxabdullaa/status/2109603859513712776) | E— |
 | 石屋中少女秘密喂养粉色幼龙 | @SadiaMalik182 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-she-raised-it-in-secret-fed-it-by-hand-968c74bd7401) | [Media](https://media.goodcase.ai/cases/175d30b71143.mp4) | [Original](https://x.com/SadiaMalik182/status/2113908264387981758) | E— |
-| Pixar 风格海盗厨师 ASMR 喜剧短片：Seedance 2.5 逐秒分镜 Prompt | @AiwithNomi | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018) | [Media](https://media.goodcase.ai/cases/8815c71013d6.mp4) | [Original](https://x.com/AiwithNomi/status/2099872759866380704) | E— |
 
 ## Derivation boundary
 
