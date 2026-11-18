@@ -4,7 +4,7 @@ English | [中文](README.md)
 
 [![Site](https://img.shields.io/badge/site-goodcase.ai-orange)](https://goodcase.ai/?utm_source=goodcase-repo&utm_medium=github&utm_campaign=readme-en&utm_content=badge)
 
-**Viral AI prompts, rerun on a second model. Results published either way.**
+**The open-source repo of [goodcase.ai](https://goodcase.ai/?utm_source=goodcase-repo&utm_medium=github&utm_campaign=readme-en&utm_content=tagline), an AI Prompt Case Collection.**
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill goodcase
