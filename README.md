@@ -28,7 +28,7 @@ npx skills add LearnPrompt/goodcase --skill goodcase
 
 一样是上面那个 goodcase 查询 skill，在 `skills/goodcase`。
 
-另一样是从 goodcase.ai 的热门案例里提取出来的 109 个 skill，在 `skills/generated`，一个 skill 一个目录，里面是一份 SKILL.md 和它的例证案例。其中视频 69 个，图像 25 个，网页 15 个。想单独装哪一个，把它的 slug 换进这行命令：
+另一样是从 goodcase.ai 的热门案例里提取出来的 112 个 skill，在 `skills/generated`，一个 skill 一个目录，里面是一份 SKILL.md 和它的例证案例。其中视频 70 个，图像 27 个，网页 15 个。想单独装哪一个，把它的 slug 换进这行命令：
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
@@ -42,7 +42,7 @@ slug 就是 `skills/generated` 下面的目录名，也是 goodcase.ai 上那个
 
 稳定复现说的是例证的原提示语重跑的结果，没测过 skill 生成的新内容。
 
-截至 2026-11-15，全站提取的 109 个 skill 里有 48 个稳定复现。这是全站口径，视频、图像、网页都算在内。数字会随复测变化，以 [goodcase.ai/skills](https://goodcase.ai/skills?utm_source=goodcase-repo&utm_medium=github&utm_campaign=readme-zh&utm_content=stable) 上的为准。剩下的 skill，有的例证还没测够 3 条，标的是待测；有的测过了但没到这条线；还有一些暂时没法实测。
+截至 2026-11-19，全站提取的 112 个 skill 里有 48 个稳定复现。这是全站口径，视频、图像、网页都算在内。数字会随复测变化，以 [goodcase.ai/skills](https://goodcase.ai/skills?utm_source=goodcase-repo&utm_medium=github&utm_campaign=readme-zh&utm_content=stable) 上的为准。剩下的 skill，有的例证还没测够 3 条，标的是待测；有的测过了但没到这条线；还有一些暂时没法实测。
 
 ## 看案例和对照
 
