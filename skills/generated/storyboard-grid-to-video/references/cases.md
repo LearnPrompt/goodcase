@@ -79,7 +79,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E7 · Claude Opus 5.5 - Grid Effect
 
 - Creator: @aimikoda
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-grid-effect) · [finished media](https://media.goodcase.ai/cases/8ef94f514a3c.mp4) · [poster](https://media.goodcase.ai/cases/644d03eb7035.jpg) · [original source](https://x.com/aimikoda/status/2114167098284839305)
+- Evidence: [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-grid-effect) · [finished media](https://media.goodcase.ai/cases/8ef94f514a3c.mp4) · [poster](https://media.goodcase.ai/cases/d3d807af11e7.jpg) · [original source](https://x.com/aimikoda/status/2114167098284839305)
 - Summary: Claude Opus 5.5 - Grid Effect I tried three different versions, in order: Poster Grid, Style Infection and Temporal Mosaic. The original video was 15 seconds lo…
 - Prompt excerpt:
 

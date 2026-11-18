@@ -46,7 +46,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · 夜间演唱会丧尸暴发，吉他手护队友脱险
 
 - Creator: @auqibhabib
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-set-at-an-outdoor-music-concert-at-night-op-5b999d32c341) · [finished media](https://media.goodcase.ai/cases/2d203b4f7090.mp4) · [poster](https://media.goodcase.ai/cases/299f094194dc.jpg) · [original source](https://x.com/auqibhabib/status/2108459477649543194)
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-set-at-an-outdoor-music-concert-at-night-op-5b999d32c341) · [finished media](https://media.goodcase.ai/cases/2d203b4f7090.mp4) · [poster](https://media.goodcase.ai/cases/d759d5038e13.jpg) · [original source](https://x.com/auqibhabib/status/2108459477649543194)
 - Summary: Sudden outbreak at outdoor concert, band member fights off attackers on stage before security regains control. Seedance 2.5 Prompt: Cinematic horror-action shor…
 - Prompt excerpt:
 

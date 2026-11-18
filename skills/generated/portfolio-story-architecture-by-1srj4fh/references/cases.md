@@ -133,7 +133,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E5 · Digital Director
 
 - Creator: MotionSites
-- Evidence: [GoodCase](https://goodcase.ai/cases/digital-director) · [finished media](https://media.goodcase.ai/cases/2b0c6f1dcdb5.mp4) · [poster](https://media.goodcase.ai/cases/9fa7afd4fd0e.webp) · [original source](https://motionsites.ai/?prompt=digital-director)
+- Evidence: [GoodCase](https://goodcase.ai/cases/digital-director) · [finished media](https://media.goodcase.ai/cases/2b0c6f1dcdb5.mp4) · [poster](https://media.goodcase.ai/cases/6e6e1cff7ae6.jpg) · [original source](https://motionsites.ai/?prompt=digital-director)
 - Summary: 作品集落地页的像素级复刻题，技术栈和结构用分隔线排成文档，prompt 本身就像一份规格书。
 - Prompt excerpt:
 

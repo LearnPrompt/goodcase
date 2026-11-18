@@ -48,7 +48,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - A central stepped spillway with three bays between piers. Each bay has a radial (Tainter) gate: a curved skin plate on arms that swing about trunnions on the piers, with hoist houses on top. Below is an ogee crest, a stepped chute, training walls and a plunge pool scoured into the riverbed.
 > - A powerhouse at the right toe: a concret…
 
-### E3 · Claude Opus 5.5：Create a single self-contained HTML file using Three.js that renders a beautifu…
+### E3 · 云海巨龟背上的灯塔秋岛与环游鲸鱼
 
 - Creator: @vib3coded
 - Evidence: [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-create-a-single-self-contained-html-file-using-three-js-that-renders-a-beautifu-90da86c412f0) · [finished media](https://media.goodcase.ai/cases/dd05b98c2ecc.mp4) · [poster](https://media.goodcase.ai/cases/46d395f3e026.jpg) · [original source](https://x.com/vib3coded/status/2116169391301607810)
@@ -65,7 +65,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Add soft shadows, voxel ambient occlusion, drifting voxel clouds, falling leaves, a gradient sky and a slow cinematic camera orbit. Make it as detailed and polished as possible.
 
-### E4 · Claude Opus 5.5：Create a single self-contained HTML file using Three.js that renders a beautifu…
+### E4 · 极光雪夜中猛犸背负冰堡，冰龙环绕云海
 
 - Creator: @vib3coded
 - Evidence: [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-create-a-single-self-contained-html-file-using-three-js-that-renders-a-beautifu-c5134ae05b62) · [finished media](https://media.goodcase.ai/cases/18a08e7a5172.mp4) · [poster](https://media.goodcase.ai/cases/4ba247ce5ecf.jpg) · [original source](https://x.com/vib3coded/status/2116533061495947270)
@@ -88,8 +88,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 浮空岛后院的像素风四格足球游戏 | @vib3coded | [GoodCase](https://goodcase.ai/cases/build-a-single-file-html-three-js-r160-scene-called-chalk-square-four-sq-38d0013dce1c) | [Media](https://media.goodcase.ai/cases/94d4992041e8.mp4) | [Original](https://x.com/vib3coded/status/2113602050172785117) | E1 |
 | 果冻方块中的山谷水坝微缩景观 | @vib3coded | [GoodCase](https://goodcase.ai/cases/build-dam-jelly-a-new-piece-in-my-material-studies-series-a-single-file-5b1975110a6a) | [Media](https://media.goodcase.ai/cases/5f953c611a8c.mp4) | [Original](https://x.com/vib3coded/status/2114512807500615723) | E2 |
-| Claude Opus 5.5：Create a single self-contained HTML file using Three.js that renders a beautifu… | @vib3coded | [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-create-a-single-self-contained-html-file-using-three-js-that-renders-a-beautifu-90da86c412f0) | [Media](https://media.goodcase.ai/cases/dd05b98c2ecc.mp4) | [Original](https://x.com/vib3coded/status/2116169391301607810) | E3 |
-| Claude Opus 5.5：Create a single self-contained HTML file using Three.js that renders a beautifu… | @vib3coded | [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-create-a-single-self-contained-html-file-using-three-js-that-renders-a-beautifu-c5134ae05b62) | [Media](https://media.goodcase.ai/cases/18a08e7a5172.mp4) | [Original](https://x.com/vib3coded/status/2116533061495947270) | E4 |
+| 云海巨龟背上的灯塔秋岛与环游鲸鱼 | @vib3coded | [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-create-a-single-self-contained-html-file-using-three-js-that-renders-a-beautifu-90da86c412f0) | [Media](https://media.goodcase.ai/cases/dd05b98c2ecc.mp4) | [Original](https://x.com/vib3coded/status/2116169391301607810) | E3 |
+| 极光雪夜中猛犸背负冰堡，冰龙环绕云海 | @vib3coded | [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-create-a-single-self-contained-html-file-using-three-js-that-renders-a-beautifu-c5134ae05b62) | [Media](https://media.goodcase.ai/cases/18a08e7a5172.mp4) | [Original](https://x.com/vib3coded/status/2116533061495947270) | E4 |
 
 ## Derivation boundary
 

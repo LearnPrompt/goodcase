@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 34 published Cases across 25 creators.
+This workflow is derived from 35 published Cases across 25 creators.
 
 ## Operating rule
 
@@ -138,9 +138,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 跑车、摩托、坦克与战机变身机甲 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) | [Media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) | [Original](https://x.com/laviniavelle/status/2108404878590857384) | E— |
 | 皮衣女子驾白玛莎拉蒂夜抵天际线 | @codewithhajra | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-white-maserati-emerges-slowly-from-a-luxurious-underground-parking-entrance-a-36a8f1f791fd) | [Media](https://media.goodcase.ai/cases/4a567303506f.mp4) | [Original](https://x.com/codewithhajra/status/2120033593682518407) | E— |
 | 落日公路上粉发少女伸手向星空 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cartoon-appearance-anime-style-artificial-skin-distorted-faces-changing-hai-473dec637d64) | [Media](https://media.goodcase.ai/cases/8564e8545f30.mp4) | [Original](https://x.com/Just_sharon7/status/2118685486122520712) | E— |
+| 摩托手飞跃坍塌的金门大桥 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-one-continuous-ultra-realistic-hollywood-action-sequence-with-cinematic-411ad1cc40ef) | [Media](https://media.goodcase.ai/cases/83100f896d04.mp4) | [Original](https://x.com/Xaroon_x/status/2121182211361619988) | E— |
 | 白色超跑飞越首尔江面降落楼顶 | @aiwithaayat | [GoodCase](https://goodcase.ai/cases/seedance-2-5-created-a-video-30-second-featuring-a-futuristic-white-supercar-driving-throu-f4b0d3637ef0) | [Media](https://media.goodcase.ai/cases/7dc3776da6dc.mp4) | [Original](https://x.com/aiwithaayat/status/2112025080335339907) | E— |
 | 摩托骑士公路追击绑匪营救女子 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) | [Media](https://media.goodcase.ai/cases/ad17462a0159.mp4) | [Original](https://x.com/Xaroon_x/status/2115374004529664166) | E— |
-| 印尼女子的庭院闲暇与摩托车清洁日常 | @ai_anelia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-image-main-subject-c31d2523363c) | [Media](https://media.goodcase.ai/cases/24f3d8d8ac33.mp4) | [Original](https://x.com/ai_anelia/status/2117239438942306560) | E— |
 
 ## Derivation boundary
 

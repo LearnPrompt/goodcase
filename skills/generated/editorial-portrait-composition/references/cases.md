@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 117 published Cases across 73 creators.
+This workflow is derived from 119 published Cases across 73 creators.
 
 ## Operating rule
 
@@ -128,9 +128,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E— |
 | 高级时尚编辑风格提示词 | @dreamydigiarts | [GoodCase](https://goodcase.ai/cases/case-2c5f79636757) | [Media](https://media.goodcase.ai/cases/42098516847e.jpg) | [Original](https://x.com/dreamydigiarts/status/2116847725648261496) | E— |
 | 表现主义写实混合风格肖像 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-38b56d40cd1d) | [Media](https://media.goodcase.ai/cases/b09928f6cfd7.jpg) | [Original](https://x.com/HustleXR/status/2096951148515385716) | E— |
+| 保留面部特征的超写实冬季时尚人像 | @Elvorya | [GoodCase](https://goodcase.ai/cases/case-3f19188215a0) | [Media](https://media.goodcase.ai/cases/a5332fc222a7.jpg) | [Original](https://x.com/Elvorya/status/2121243826673349104) | E— |
 | 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E— |
 | 奢华摄影棚时尚大片 | @john_my07 | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/john_my07/status/2080344542885335240) | E— |
-| 照片人像自然美颜优化 | 数字生命卡兹克 | [GoodCase](https://goodcase.ai/cases/case-5a2d1946332d) | [Media](https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261002/6aba0f9c0000000015013521/media-img-01.webp) | [Original](https://www.xiaohongshu.com/explore/6aba0f9c0000000015013521?xsec_token=YBgKHx2esTLwSJsKQUuQ_m8HUEdGsWty-VDeylITSv-AQ=&gc=6aba0f9c0000000015013521-1) | E— |
 
 ## Derivation boundary
 
