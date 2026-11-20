@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 7 published Cases across 7 creators.
+This workflow is derived from 8 published Cases across 8 creators.
 
 ## Operating rule
 
@@ -84,7 +84,21 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Component grid:
 > Shoulde…
 
-### E5 · Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画
+### E5 · 纸尿裤玩家见GTA下载还需十四小时崩溃
+
+- Creator: @Zyvex_0x
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-quality-mandatory-applies-to-every-shot-of-this-video-d1dab8446932) · [finished media](https://media.goodcase.ai/cases/c101a386ba06.mp4) · [poster](https://media.goodcase.ai/cases/98326ee65a29.jpg) · [original source](https://x.com/Zyvex_0x/status/2123082883556335933)
+- Summary: He waited 12 years for GTA 6 and still wasn't ready for what happened at 0 Created by Seedance 2.5 on @makeugc Watch his face the second the screen changes. And…
+- Prompt excerpt:
+
+> 👇
+>
+> FORMAT: 22 seconds, vertical 9:16, one continuous handheld take, real time, no cuts. Authentic found footage shot on an early-2000s Sony DV tape camcorder: standard definition, soft optics, video noise, interlacing on motion, warm tungsten white balance, limited dynamic range, fine grain. It must feel like a real home clip that leaked online, never like a smartphone video and never like a movie. Where any line below mentions cinema cameras or lenses, this camcorder look overrides it: keep only the realism, physics, skin, texture and consistency requirements. The operator and the camcorder never appear: no hands, no body, no reflections.
+>
+> CINEMATIC QUALITY (mandatory, applies to every shot of this video):
+> Generate this video as real live-action footage from a top-budget feature film. It must be indistinguishable from a real camera shoot and never look AI-generated, CGI-plastic or animated. Shot on ARRI Alexa 65 with sharp high-end prime lenses, cinematography in the style of Greig Fraser: motivated natural light, soft realistic shadows, true-to-life exposure, deep but detailed blacks, no blown highlights. 24 fps with natural 180-degree shutter motion blur on all movement. Native high resolution with razor-sharp focus on the subject, crisp micro-contrast and high-frequency detail on every edge, skin pore and surface texture. Subtle organic film-like grain over the whole image, stable across frames. Natural, slightly muted real-world color grade with accurate skin tones. Keep this quality consistent from the first frame to the last, with no flicker, morphing, warping or te…
+
+### E6 · Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画
 
 - Creator: @pratishhhhh
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff) · [finished media](https://media.goodcase.ai/media/video/seedance-2-5-ui-228cf63ce8ff.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-2-5-ui-228cf63ce8ff.jpg) · [original source](https://x.com/pratishhhhh/status/2085679073632882880)
@@ -100,7 +114,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > ui_screen:
 > base: "Game character-select interface matching @image1. Cool near-white background, fai…
 
-### E6 · 女外科医生的医院急救任务
+### E7 · 女外科医生的医院急救任务
 
 - Creator: @saniaspeaks_
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-okay-this-feels-straight-out-of-gta-4dcfe15565a6) · [finished media](https://media.goodcase.ai/cases/c8ed67b6ad8e.mp4) · [poster](https://media.goodcase.ai/cases/9377bc7b94f2.jpg) · [original source](https://x.com/saniaspeaks_/status/2100429151719075851)
@@ -138,7 +152,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 12–17s — SURGERY
 > She enters the operating room, positions herself beside the patient, surgical li…
 
-### E7 · 女主播直播金库劫案逃亡
+### E8 · 女主播直播金库劫案逃亡
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-use-image1-as-highest-priority-reference-for-haneul-87857bb7ac9c) · [finished media](https://media.goodcase.ai/cases/aada466bc8d2.mp4) · [poster](https://media.goodcase.ai/cases/e750151cbe91.jpg) · [original source](https://x.com/doctorwasif/status/2101176910244139187)
@@ -165,9 +179,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 现代战争 FPS 实机画面 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/fps-287977d45ea5) | [Media](https://media.goodcase.ai/cases/411b189c5435.webm) | [Original](https://x.com/Just_sharon7/status/2083064417798025721) | E2 |
 | GPT Image 2 + MiniMax H3 球员数据面板开场动画 | @aimikoda | [GoodCase](https://goodcase.ai/cases/gpt-image-2-minimax-h3-f6dfbd41c76d) | [Media](https://media.goodcase.ai/cases/3baed4a81407.mp4) | [Original](https://x.com/aimikoda/status/2086122377633575169) | E3 |
 | MiniMax H3 Reaper游戏装备切换UI演示 | @ShamsAmin56 | [GoodCase](https://goodcase.ai/cases/minimax-h3-reaper-ui-b513e22a8c2e) | [Media](https://media.goodcase.ai/media/video/minimax-h3-reaper-ui-b513e22a8c2e.mp4) | [Original](https://x.com/ShamsAmin56/status/2082798559901143224) | E4 |
-| Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画 | @pratishhhhh | [GoodCase](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-ui-228cf63ce8ff.mp4) | [Original](https://x.com/pratishhhhh/status/2085679073632882880) | E5 |
-| 女外科医生的医院急救任务 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/seedance-okay-this-feels-straight-out-of-gta-4dcfe15565a6) | [Media](https://media.goodcase.ai/cases/c8ed67b6ad8e.mp4) | [Original](https://x.com/saniaspeaks_/status/2100429151719075851) | E6 |
-| 女主播直播金库劫案逃亡 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-use-image1-as-highest-priority-reference-for-haneul-87857bb7ac9c) | [Media](https://media.goodcase.ai/cases/aada466bc8d2.mp4) | [Original](https://x.com/doctorwasif/status/2101176910244139187) | E7 |
+| 纸尿裤玩家见GTA下载还需十四小时崩溃 | @Zyvex_0x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-quality-mandatory-applies-to-every-shot-of-this-video-d1dab8446932) | [Media](https://media.goodcase.ai/cases/c101a386ba06.mp4) | [Original](https://x.com/Zyvex_0x/status/2123082883556335933) | E5 |
+| Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画 | @pratishhhhh | [GoodCase](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-ui-228cf63ce8ff.mp4) | [Original](https://x.com/pratishhhhh/status/2085679073632882880) | E6 |
+| 女外科医生的医院急救任务 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/seedance-okay-this-feels-straight-out-of-gta-4dcfe15565a6) | [Media](https://media.goodcase.ai/cases/c8ed67b6ad8e.mp4) | [Original](https://x.com/saniaspeaks_/status/2100429151719075851) | E7 |
+| 女主播直播金库劫案逃亡 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-use-image1-as-highest-priority-reference-for-haneul-87857bb7ac9c) | [Media](https://media.goodcase.ai/cases/aada466bc8d2.mp4) | [Original](https://x.com/doctorwasif/status/2101176910244139187) | E8 |
 
 ## Derivation boundary
 
