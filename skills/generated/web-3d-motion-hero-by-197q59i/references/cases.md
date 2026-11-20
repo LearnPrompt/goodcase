@@ -372,7 +372,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Nano Banana + Flow + AntiGravity 动效网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/nano-banana-flow-antigravity-423c21fb568e) | [Media](https://media.goodcase.ai/media/video/nano-banana-flow-antigravity-423c21fb568e.mp4) | [Original](https://x.com/viktoroddy/status/2027664654252839271) | E— |
 | Nano Banana + Kling + Claude 电影感 Hero | @viktoroddy | [GoodCase](https://goodcase.ai/cases/nano-banana-kling-claude-hero-9301b1057401) | [Media](https://media.goodcase.ai/media/video/nano-banana-kling-claude-hero-9301b1057401.mp4) | [Original](https://x.com/viktoroddy/status/2037902313910899150) | E— |
 | Nano Banana + Veo 3 + Lovable 动效站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/nano-banana-veo-3-lovable-a22361354031) | [Media](https://media.goodcase.ai/media/video/nano-banana-veo-3-lovable-a22361354031.mp4) | [Original](https://x.com/viktoroddy/status/2033967195924144341) | E— |
-| 应式3D角色轮播动画UI | @viktoroddy | [GoodCase](https://goodcase.ai/cases/real-case-12-viktoroddy) | [Media](https://goodcase.ai/media/goodcase/viktoroddy-2054885940183880156-01.mp4) | [Original](https://x.com/viktoroddy/status/2054885940183880156) | E— |
+| 应式3D角色轮播动画UI | @viktoroddy | [GoodCase](https://goodcase.ai/cases/real-case-12-viktoroddy) | [Media](https://media.goodcase.ai/media/goodcase/viktoroddy-2054885940183880156-01.mp4) | [Original](https://x.com/viktoroddy/status/2054885940183880156) | E— |
 
 ## Derivation boundary
 
