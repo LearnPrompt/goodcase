@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 116 published Cases across 78 creators.
+This workflow is derived from 116 published Cases across 79 creators.
 
 ## Operating rule
 
@@ -54,7 +54,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Use cinematic slow motion for the strongest attacks, followed by fast-paced cuts. Show students reacting and moving away in fear as the fight continues down the hallway. The glowing pink-red energy should illuminate the…
 
-### E5 · 魔幻都市奇幻战斗动画
+### E5 · 悉尼歌剧院、拆解机械表与巨龙攻城
+
+- Creator: @ArtificialAnlys
+- Evidence: [GoodCase](https://goodcase.ai/cases/artificialanlys-seedance-2-5-ai-751009cb25af) · [finished media](https://media.goodcase.ai/cases/2b6c9773903c.mp4) · [poster](https://media.goodcase.ai/cases/0029af0a0416.jpg) · [original source](https://x.com/ArtificialAnlys/status/2123581865965855205)
+- Summary: Can language models make better videos than video models? LLMs now make motion graphics, edit video as code and drive Blender to build 3D scenes. Can LLMs compe…
+- Prompt excerpt:
+
+> Can language models make better videos than video models?
+>
+> LLMs now make motion graphics, edit video as code and drive Blender to build 3D scenes. Can LLMs compete with video generation models?
+>
+> We put GPT-6.2 Astra from @OpenAI, the current #1 on AA-3D, to the test, building the Sydney Opera House, an exploded mechanical watch, and a dragon attacking a medieval town as three.js code. We flew a scripted camera through each scene in a browser: 15 s, 1080p, 24 fps.
+>
+> Dreamina Seedance 2.5 from @ByteDanceSeed_ got the same camera path as a text prompt with reference images of the route, at the same settings.
+>
+> ➤ Top: GPT-6.2 Astra (LLM, AA-3D)
+>
+> ➤ Bottom: Dreamina Seedance 2.5 (video model, AA-Video-T2V)
+
+### E6 · 魔幻都市奇幻战斗动画
 
 - Creator: @haruuraeadss
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg) · [original source](https://x.com/haruuraeadss/status/2080976327231107259)
@@ -78,7 +97,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 【攻撃展開】
 > 開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前…
 
-### E6 · 冰封星球要塞之战
+### E7 · 冰封星球要塞之战
 
 - Creator: @CharaspowerAI
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-1b3b8865bca8) · [finished media](https://media.goodcase.ai/media/video/case-1b3b8865bca8.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg) · [original source](https://x.com/CharaspowerAI/status/2080669361237303417)
@@ -87,7 +106,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to…
 
-### E7 · 硬核科幻动漫剪辑
+### E8 · 硬核科幻动漫剪辑
 
 - Creator: @itsPixieVerse
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-251215797a14) · [finished media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) · [poster](https://media.goodcase.ai/media/poster/case-251215797a14.jpg) · [original source](https://x.com/itsPixieVerse/status/2081161446671651074)
@@ -122,31 +141,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > scorching blast-mark on an adobe wall, sliced metal debris falling, wind
 > sweeping dust over footprints.…
 
-### E8 · 火凤凰与水龙之战
-
-- Creator: @noorlewisx
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-2c7bcef707d4) · [finished media](https://media.goodcase.ai/cases/3619d027e9e1.mp4) · [poster](https://media.goodcase.ai/cases/422cca8431b5.jpg) · [original source](https://x.com/noorlewisx/status/2095039305555263672)
-- Summary: 一场史诗级的元素对决，在古老遗迹中展现火凤凰与水龙的激战，包含详细的镜头与特效说明。
-- Prompt excerpt:
-
-> 15s cinematic photorealistic action video, 5 shots, 16:9. ARRI ALEXA 65, 35mm anamorphic, film grain, rich contrast, natural bokeh, volumetric god rays, realistic smoke, dust, sparks, fire, water, hair and cloth physics. No text, logos, UI or watermark.
->
-> Environment: Abandoned ancient temple ruins, broken pillars, rubble, burning temple, heavy smoke, sparks, dramatic sunset. Keep architecture, damage, lighting and atmosphere consistent.
->
-> Woman 1 – Fire: Short pink hair, red horns, deep red/gold ornate battle outfit, chains, black belt, tassels, platform boots. Lock face, body and outfit perfectly.
->
-> Woman 2 – Water: Long navy-black hair with straight bangs, deep blue-silver flowing battle robe, transparent layers, decorative belt, silver ornaments, tassels and boots. Lock face, body and outfit perfectly.
->
-> 0–2.5s: Wide tracking circle. Fighters clash aggressively. Fire woman attacks with flame punches/kicks; water woman dodges and counters with water whips. Fire and water collide into steam explosions.
->
-> 2.5–6s: Tight tracking shot. Close-range brutal exchange. Fire elbow + knee; water blocks with a water shield and counters with a pressurized palm, sending her across rubble.
->
-> 6–9.5s: Low-angle tracking. Both charge and leap. Water woman launches spinning water spheres; fire woman breaks through with explosive flames and close-range attacks.
->
-> 9.5–12.5s: Medium-wide push-in. Water woman summons a massive serpentine water dragon. Fire woman releases a majestic flame phoenix. Both charge toward each other.
->
-> 12.5–15s: Epic wide pull-back/crane up. Dragon and phoenix collide, creat…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -155,10 +149,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 炭灰背景下的马卡龙色胶囊眼机器人玩偶 | 北岛Travis | [GoodCase](https://goodcase.ai/cases/2d-q-aeb8b5aa8b10) | [Media](https://media.goodcase.ai/cases/94caba70e671.mp4) | [Original](https://www.xiaohongshu.com/explore/6aba2aac000000001500c569?xsec_token=YBswMYPM-c_qsXIGHXQI8UTgbS3oezv6me-5oYxVb6CCU=) | E2 |
 | 单图生成的雨林赛车一镜到底追逐 | Umesh | [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) | [Media](https://media.goodcase.ai/cases/16a077baa7df.mp4) | [Original](https://x.com/umesh_ai/status/2103382240571138220) | E3 |
 | 金发少女在高中走廊释放超能力 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-b204cdfb3dac.mp4) | [Original](https://x.com/AiwithElisia/status/2092119695201837059) | E4 |
-| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E5 |
-| 冰封星球要塞之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-1b3b8865bca8) | [Media](https://media.goodcase.ai/media/video/case-1b3b8865bca8.mp4) | [Original](https://x.com/CharaspowerAI/status/2080669361237303417) | E6 |
-| 硬核科幻动漫剪辑 | @itsPixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | E7 |
-| 火凤凰与水龙之战 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-2c7bcef707d4) | [Media](https://media.goodcase.ai/cases/3619d027e9e1.mp4) | [Original](https://x.com/noorlewisx/status/2095039305555263672) | E8 |
+| 悉尼歌剧院、拆解机械表与巨龙攻城 | @ArtificialAnlys | [GoodCase](https://goodcase.ai/cases/artificialanlys-seedance-2-5-ai-751009cb25af) | [Media](https://media.goodcase.ai/cases/2b6c9773903c.mp4) | [Original](https://x.com/ArtificialAnlys/status/2123581865965855205) | E5 |
+| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E6 |
+| 冰封星球要塞之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-1b3b8865bca8) | [Media](https://media.goodcase.ai/media/video/case-1b3b8865bca8.mp4) | [Original](https://x.com/CharaspowerAI/status/2080669361237303417) | E7 |
+| 硬核科幻动漫剪辑 | @itsPixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | E8 |
+| 火凤凰与水龙之战 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-2c7bcef707d4) | [Media](https://media.goodcase.ai/cases/3619d027e9e1.mp4) | [Original](https://x.com/noorlewisx/status/2095039305555263672) | E— |
 | 跳舞的金刚与霸王龙 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/case-41ba2a3d23dc) | [Media](https://media.goodcase.ai/media/video/case-41ba2a3d23dc.mp4) | [Original](https://x.com/MrDasOnX/status/2091132590908686390) | E— |
 | 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E— |
 | 末日幸存者与感染犬 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-44b9dbf5729c) | [Media](https://media.goodcase.ai/media/video/case-44b9dbf5729c.mp4) | [Original](https://x.com/AIwithkhan/status/2095351192054595892) | E— |
@@ -170,7 +165,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 废墟之桥上的史诗骑士之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://media.goodcase.ai/media/video/case-b1405ee458d3.mp4) | [Original](https://x.com/CharaspowerAI/status/2081031751598535092) | E— |
 | 末日韩式天台恐怖片 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) | [Media](https://media.goodcase.ai/cases/f957750571e1.mp4) | [Original](https://x.com/doctorwasif/status/2090305873373810874) | E— |
 | 电影级动漫魔法剑战 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) | [Media](https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4) | [Original](https://x.com/haruuraeadss/status/2080539077603172597) | E— |
-| 传奇骑士堡垒之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-c726edc4268d) | [Media](https://media.goodcase.ai/media/video/case-c726edc4268d.mp4) | [Original](https://x.com/CharaspowerAI/status/2080306973220725206) | E— |
 
 ## Derivation boundary
 
