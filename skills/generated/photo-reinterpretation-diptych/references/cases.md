@@ -198,7 +198,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 照片与几何抽象的上下对照 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-using-the-uploaded-photo-create-a-vertical-3-4-before-and-after-comparison-p-ba90e0d7bd09) | [Media](https://media.goodcase.ai/cases/9cb0dffaf703.jpg) | [Original](https://x.com/Sairah_0/status/2101888385627598947) | E— |
 | 暖阳场景的摄影与手绘双联海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/nano-banana-create-a-premium-editorial-poster-featuring-a-two-part-visual-composition-7ae4da60ca4d) | [Media](https://media.goodcase.ai/cases/3eaa7367596a.jpg) | [Original](https://x.com/ChillaiKalan__/status/2111332272670417236) | E— |
 | 摄影与黑白手绘上下对照海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/nano-banana-using-the-uploaded-reference-image-create-a-single-high-resolution-vertical-2-f58410d7ed67) | [Media](https://media.goodcase.ai/cases/9a5b3bf2a127.jpg) | [Original](https://x.com/ChillaiKalan__/status/2110581440085987751) | E— |
-| 搞笑丑涂鸦 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/real-case-09-oggii-0) | [Media](https://goodcase.ai/media/goodcase/Xnip2026-05-17_17-34-13.jpg) | [Original](https://x.com/oggii_0/status/2055125487014564227) | E— |
+| 搞笑丑涂鸦 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/real-case-09-oggii-0) | [Media](https://media.goodcase.ai/media/goodcase/Xnip2026-05-17_17-34-13.jpg) | [Original](https://x.com/oggii_0/status/2055125487014564227) | E— |
 
 ## Derivation boundary
 

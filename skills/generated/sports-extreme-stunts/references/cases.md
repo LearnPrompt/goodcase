@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 40 published Cases across 36 creators.
+This workflow is derived from 41 published Cases across 37 creators.
 
 ## Operating rule
 
@@ -183,9 +183,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 水上闯关决胜前意外落水 | @Inshrah_ali_ | [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) | [Media](https://media.goodcase.ai/cases/050883318d18.mp4) | [Original](https://x.com/Inshrah_ali_/status/2098621065039647016) | E— |
 | 白衣女子在山间碧湖高桩上腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99) | [Media](https://media.goodcase.ai/cases/e3e323cb5411.mp4) | [Original](https://x.com/ayzalnooor24521/status/2113128549930729895) | E— |
 | 女子在雨后山间茶园跑酷激战十名蒙面人 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-16-9-widescreen-cinematic-live-action-15-seconds-high-momentum-parkour-fight-41e698499a8d) | [Media](https://media.goodcase.ai/cases/75b94a2833b2.mp4) | [Original](https://x.com/Chaemate_/status/2113558308514922850) | E— |
+| 废墟浅海上女剑士大战骷髅怨灵 | @Viniai_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-50s-built-in-4-shots-12-13s-each-4b8303bc6bc1) | [Media](https://media.goodcase.ai/cases/f07f21192c39.mp4) | [Original](https://x.com/Viniai_/status/2122916879824306422) | E— |
 | 微缩女子的家电卖场跑酷冒险 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893) | [Media](https://media.goodcase.ai/cases/66f3c9b854f4.mp4) | [Original](https://x.com/AIwithSynthia/status/2115416926092746987) | E— |
 | 微缩女子的便利店跑酷冒险 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd) | [Media](https://media.goodcase.ai/cases/e57a891dd0ed.mp4) | [Original](https://x.com/AIwithkhan/status/2106397932304191969) | E— |
-| 女子夜奔地铁滑入安全区闸门 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-ci-f278c2a5757d) | [Media](https://media.goodcase.ai/cases/b6fec33460fd.mp4) | [Original](https://x.com/doctorwasif/status/2117239135169908817) | E— |
 
 ## Derivation boundary
 

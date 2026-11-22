@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to Naiknelofar788. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Naiknelofar788. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -24,7 +24,51 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Foreground
 > Include [FOREGROUND OBJECT] that represents the feeling of traveling through the destination. Add [PERSON / VEHICLE / BICYCLE / CAFÉ TABLE / SUITCASE / BOAT / OTHER ELEMENT] naturally into…
 
-### E2 · 复古极简旅行生活插画海报
+### E2 · 包豪斯风格雅典卫城极简海报
+
+- Creator: @Naiknelofar788
+- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-create-an-exceptionally-beautiful-ultra-minimalist-bauhaus-inspired-architectu-f6ef48cc497a) · [finished media](https://media.goodcase.ai/cases/ae36bf89c941.jpg) · [original source](https://x.com/Naiknelofar788/status/2121823699041157587)
+- Summary: GPT image 2.6 Prompt: Create an exceptionally beautiful, ultra-minimalist Bauhaus-inspired architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNT…
+- Prompt excerpt:
+
+> Create an exceptionally beautiful, ultra-minimalist Bauhaus-inspired architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].
+>
+> 1. ICONIC ARCHITECTURAL SILHOUETTE
+>
+> Feature the destination’s most recognisable landmark as the central artistic subject.
+>
+> Preserve its authentic architectural identity and instantly recognisable silhouette.
+> Simplify the structure into clean geometric lines, rectangles, circles, triangles and elegant architectural proportions.
+> Use minimal details to communicate the landmark’s character.
+> Make the architecture appear as though it has been constructed from carefully arranged geometric paper cutouts.
+> Avoid photorealism, excessive details and complicated textures.
+>
+> 2. GEOMETRIC ARTISTIC COMPOSITION
+>
+> Build the entire poster around a striking arrangement of oversized geometric shapes.
+>
+> Large semicircles and circles representing the sun or moon.
+> Bold rectangular architectural foundations.
+> Angular trapezoids and triangular landscape forms.
+> Layered geometric platforms supporting the landmark.
+> Carefully overlapping shapes creating depth.
+> Simple curved forms and architectural abstractions.
+>
+> Use only shapes that complement the landmark’s natural structure.
+>
+> 3. UNIQUE DESTINATION-INSPIRED COLOURS
+>
+> This is the most important part of the collection.
+>
+> Create a completely different 4–6 colour palette for every destination.
+>
+> Choose colours inspired by the destination’s architecture, history, cultural identity and natural surroundings.
+>
+> Use bold primary or complementary colours, balanced with warm ivory or soft neutral backgrounds.
+>
+> Never repeat the sa…
+
+### E3 · 复古极简旅行生活插画海报
 
 - Creator: @Naiknelofar788
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-a-sophisticated-minimalist-lifestyle-art-poster-featuring-person-subject-m-6f9f4b65ad5a) · [finished media](https://media.goodcase.ai/cases/1a7327c8ca6d.jpg) · [original source](https://x.com/Naiknelofar788/status/2101161664892829838)
@@ -41,7 +85,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Generous negative space, elegant editorial composition, vintage screen-print aesthetic, hand-crafted illustration, sophisticated travel-magazine design, muted heritage colors, subtle paper grain, artistic but recognizable, no photorealistic background, no excessive details, 4:5 vertical composition.
 
-### E3 · 半影调建筑旅行拼贴海报
+### E4 · 半影调建筑旅行拼贴海报
 
 - Creator: @Naiknelofar788
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-5-4fceb12b1655) · [finished media](https://media.goodcase.ai/cases/8c0399f19880.jpg) · [original source](https://x.com/Naiknelofar788/status/2100067049288634730)
@@ -92,8 +136,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 电影感旅行杂志海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/case-e435a002bb7d) | [Media](https://media.goodcase.ai/cases/d0308655dad9.jpg) | [Original](https://x.com/Naiknelofar788/status/2088475690639261784) | E1 |
-| 复古极简旅行生活插画海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/gpt-image-a-sophisticated-minimalist-lifestyle-art-poster-featuring-person-subject-m-6f9f4b65ad5a) | [Media](https://media.goodcase.ai/cases/1a7327c8ca6d.jpg) | [Original](https://x.com/Naiknelofar788/status/2101161664892829838) | E2 |
-| 半影调建筑旅行拼贴海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-5-4fceb12b1655) | [Media](https://media.goodcase.ai/cases/8c0399f19880.jpg) | [Original](https://x.com/Naiknelofar788/status/2100067049288634730) | E3 |
+| 包豪斯风格雅典卫城极简海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-create-an-exceptionally-beautiful-ultra-minimalist-bauhaus-inspired-architectu-f6ef48cc497a) | [Media](https://media.goodcase.ai/cases/ae36bf89c941.jpg) | [Original](https://x.com/Naiknelofar788/status/2121823699041157587) | E2 |
+| 复古极简旅行生活插画海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/gpt-image-a-sophisticated-minimalist-lifestyle-art-poster-featuring-person-subject-m-6f9f4b65ad5a) | [Media](https://media.goodcase.ai/cases/1a7327c8ca6d.jpg) | [Original](https://x.com/Naiknelofar788/status/2101161664892829838) | E3 |
+| 半影调建筑旅行拼贴海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-5-4fceb12b1655) | [Media](https://media.goodcase.ai/cases/8c0399f19880.jpg) | [Original](https://x.com/Naiknelofar788/status/2100067049288634730) | E4 |
 
 ## Derivation boundary
 

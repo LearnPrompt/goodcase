@@ -156,7 +156,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E5 · 复古旅行海报拼贴
 
 - Creator: @Goodmanprotocol
-- Evidence: [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) · [finished media](https://goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) · [original source](https://x.com/Goodmanprotocol/status/2055882758845878709)
+- Evidence: [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) · [finished media](https://media.goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) · [original source](https://x.com/Goodmanprotocol/status/2055882758845878709)
 - Summary: 来自 X / 𝕏 的真实 图像 案例，由 @Goodmanprotocol 发布。适合观察 Prompt 结构、素材组织和可复用的创作模式。
 - Prompt excerpt:
 
@@ -256,7 +256,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 单板滑雪者劈雪的杂志封面 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-create-a-premium-photorealistic-editorial-magazine-poster-inspired-by-high-end-2df7d8c24fc5) | [Media](https://media.goodcase.ai/cases/c8c602d1e0bf.jpg) | [Original](https://x.com/Goodmanprotocol/status/2119083132691615772) | E2 |
 | 和纸胶带拼贴主题剪影 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-create-one-premium-3-4-vertical-washi-tape-collage-artwork-for-country-locat-ce31c974f64b) | [Media](https://media.goodcase.ai/cases/a014eee8a6c5.jpg) | [Original](https://x.com/Goodmanprotocol/status/2100452165416374277) | E3 |
 | 半影半印的人像旅行拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-turn-this-portrait-photo-into-a-single-high-end-halftone-travel-collage-poster-d72f910456eb) | [Media](https://media.goodcase.ai/cases/a583ec40a9ab.jpg) | [Original](https://x.com/Goodmanprotocol/status/2099078060058550703) | E4 |
-| 复古旅行海报拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) | [Media](https://goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) | [Original](https://x.com/Goodmanprotocol/status/2055882758845878709) | E5 |
+| 复古旅行海报拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) | [Media](https://media.goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) | [Original](https://x.com/Goodmanprotocol/status/2055882758845878709) | E5 |
 
 ## Derivation boundary
 
