@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to timedoctor_nft. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to timedoctor_nft. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -50,6 +50,25 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >     "composition": "Extreme close-up macro, focusing on one eye and the side of the face, filling the frame",
 >     "layout": "Off-center focus on the visible eye, clockwork fading into deep bokeh at the top edge, fingers entering from th…
 
+### E4 · Nano Banana Pro 超现实高级时尚肖像提示词
+
+- Creator: @timedoctor_nft
+- Evidence: [GoodCase](https://goodcase.ai/cases/nano-banana-pro-1fe68dfb7f5e) · [finished media](https://media.goodcase.ai/cases/deddb106761e.jpg) · [original source](https://x.com/timedoctor_nft/status/2123499567270248845)
+- Summary: 为 Gemini Nano Banana Pro 设计的详细 JSON 结构化提示词，用于生成 Dakota Johnson 的超现实高级时尚编辑肖像，包含特定的灯光、服装和氛围细节。
+- Prompt excerpt:
+
+> {
+>   "vibe_title_en": "{argument name="vibe title" default="The Weighted Silence of the Aftermath"}",
+>   "master_prompt": "A voyeuristic 200mm telephoto shot of The Protagonist in the heavy stillness of an aftermath. Shot through a partially open, moth-eaten velvet curtain, creating heavy foreground occlusion. The subject slumps heavily against a damp, decaying stone wall in a dimly lit, abandoned backstage crypt. They wear a deconstructed, voluminous ivory silk garment, dirtied at the hem. Suspended symmetrically around them by taut pearl strings and thin steel wires are multiple pristine white porcelain masks with glossy red lips, treated as a high-budget physical practical effect. The subject's head hangs low, shoulders dropped in beautiful disarray. High-fashion makeup: extreme matte porcelain skin, smudged glossy obsidian eyelids, blurred oxblood lip stain. Hair: long, disheveled architectural wet-look waves in icy silver-blonde. Lighting: Blue hour ambient light spilling from above, dim, indirect cool tones with deep chiaroscuro shadows. Shot on Hasselblad H6D-100c, 200mm f/2.8 lens, Kodak Portra 800. Hyper-realistic skin pores, tangible fabric weaves, heavy analog film grain. NO NEON.",
+>   "meta": {
+>     "intent": "Create a surreal, high-fashion editorial portrait combining heavy aftermath emotion with physical impossibility and voyeuristic framing.",
+>     "priorities": "Voyeuristic composition, practical surrealism, cinematic blue hour lighting, heavy analog texture.",
+>     "device_profile": "Hasselblad H6D-100c"
+>   },
+>   "frame": {
+>     "aspect": "3:4",
+>     "composition": "…
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -57,6 +76,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 光纤超现实主义人像提示词 | @timedoctor_nft | [GoodCase](https://goodcase.ai/cases/case-1c653d9bb8af) | [Media](https://media.goodcase.ai/cases/2d41c8a49ca7.jpg) | [Original](https://x.com/timedoctor_nft/status/2117611010387222717) | E1 |
 | 琥珀色粗野主义肖像 | @timedoctor_nft | [GoodCase](https://goodcase.ai/cases/case-768cfe96c55a) | [Media](https://media.goodcase.ai/cases/58bea0aaa3ef.jpg) | [Original](https://x.com/timedoctor_nft/status/2116228400083792205) | E2 |
 | 机械忧郁微距人像提示词 | @timedoctor_nft | [GoodCase](https://goodcase.ai/cases/case-dc3367b74683) | [Media](https://media.goodcase.ai/cases/c0ed38d9bf20.jpg) | [Original](https://x.com/timedoctor_nft/status/2100578794159436219) | E3 |
+| Nano Banana Pro 超现实高级时尚肖像提示词 | @timedoctor_nft | [GoodCase](https://goodcase.ai/cases/nano-banana-pro-1fe68dfb7f5e) | [Media](https://media.goodcase.ai/cases/deddb106761e.jpg) | [Original](https://x.com/timedoctor_nft/status/2123499567270248845) | E4 |
 
 ## Derivation boundary
 
