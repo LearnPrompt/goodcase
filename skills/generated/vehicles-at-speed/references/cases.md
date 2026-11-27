@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 37 published Cases across 26 creators.
+This workflow is derived from 38 published Cases across 27 creators.
 
 ## Operating rule
 
@@ -129,6 +129,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Cats Chasing via Red Mini Motorcycle | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) | [Media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) | [Original](https://x.com/Just_sharon7/status/2084901309988425731) | E6 |
 | Dragon Rider Adventure Sequence | @art_muse | [GoodCase](https://goodcase.ai/cases/dragon-rider-adventure-sequence) | [Media](https://media.goodcase.ai/cases/bb6ac26d4e83.mp4) | [Original](https://x.com/art_muse/status/2085068608762155443) | E7 |
 | First-Person POV Dragon Rider Cinematic | @frametheory058 | [GoodCase](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic) | [Media](https://media.goodcase.ai/cases/79c3393a23c8.mp4) | [Original](https://x.com/frametheory058/status/2087007818721423855) | E8 |
+| 沙漠摩托驰骋与街头女子看手机 | @Hope_Ai01 | [GoodCase](https://goodcase.ai/cases/hope-ai01-seedance-2-5-ai-e36fd407cb7d) | [Media](https://media.goodcase.ai/cases/473f7bc17de9.mp4) | [Original](https://x.com/Hope_Ai01/status/2125572326796488764) | E— |
 | Seedance 2.5 抖音风机车炫酷转场竖屏短片 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0) | [Media](https://media.goodcase.ai/cases/7423c963aece.mp4) | [Original](https://x.com/johnAGI168/status/2089727243471696233) | E— |
 | 摩托车疾驰山间公路 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | [Media](https://media.goodcase.ai/cases/e74284637136.mp4) | [Original](https://x.com/Just_sharon7/status/2091546827212636576) | E— |
 | Karakoram Motorcycle Commercial | @AI_with_Antonio | [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | [Media](https://media.goodcase.ai/cases/f702b148dbed.mp4) | [Original](https://x.com/AI_with_Antonio/status/2088599346908365227) | E— |
@@ -140,7 +141,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 跑车、摩托、坦克与战机变身机甲 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) | [Media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) | [Original](https://x.com/laviniavelle/status/2108404878590857384) | E— |
 | 皮衣女子驾白玛莎拉蒂夜抵天际线 | @codewithhajra | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-white-maserati-emerges-slowly-from-a-luxurious-underground-parking-entrance-a-36a8f1f791fd) | [Media](https://media.goodcase.ai/cases/4a567303506f.mp4) | [Original](https://x.com/codewithhajra/status/2120033593682518407) | E— |
 | 女骑手在海岸公路伸手触碰黑豹 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-hyper-realistic-cinematic-4k-video-in-16-9-aspect-ratio-24-fps-featu-7e91ba9f6151) | [Media](https://media.goodcase.ai/cases/bde29a8e79b6.mp4) | [Original](https://x.com/itsSaira_1/status/2121817354279510226) | E— |
-| 摩托手飞跃坍塌的金门大桥 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-one-continuous-ultra-realistic-hollywood-action-sequence-with-cinematic-411ad1cc40ef) | [Media](https://media.goodcase.ai/cases/83100f896d04.mp4) | [Original](https://x.com/Xaroon_x/status/2121182211361619988) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to azed_ai. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to azed_ai. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -33,6 +33,15 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black shapes, minimal activity-related props, elegant hand-drawn aesthetic, contemporary editorial illustration, generous negative space, no shading, monochrome ink on a clean white background
 
+### E4 · Surrealist Haute Couture 超现实主义高级定制插画模板
+
+- Creator: @azed_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/surrealist-haute-couture-c8ba03a89e88) · [finished media](https://media.goodcase.ai/cases/ee3c06637788.jpg) · [original source](https://x.com/azed_ai/status/2125544300683620503)
+- Summary: azed_ai：正文完整英文模板提示词（Surrealist Haute Couture，含 [theme]/[color] 占位）。paid_partnership=false。
+- Prompt excerpt:
+
+> A full-body fashion illustration of one elegant model wearing a [theme]-inspired surrealist haute couture gown, avant-garde deconstructivist silhouette, sculptural tailoring, intricate 3D embroidery, layered velvet, translucent organza, pleated silk, elaborate [theme]-inspired headpiece, artistic handbag, flowing architectural forms, sophisticated [color1] and [color2] palette with [color3] accents, refined fashion illustration, dreamy editorial aesthetic, clean white background, 4K
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -40,6 +49,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 3D 名人漫画像模板（Prompt share） | @azed_ai | [GoodCase](https://goodcase.ai/cases/3d-prompt-share-cae3793c8a66) | [Media](https://media.goodcase.ai/cases/2cb2785cd554.jpg) | [Original](https://x.com/azed_ai/status/2119383710592290824) | E1 |
 | 角色设定集 Character Archive 模板 | @azed_ai | [GoodCase](https://goodcase.ai/cases/character-archive-6fe1cfa8b317) | [Media](https://media.goodcase.ai/cases/78eed031ac37.jpg) | [Original](https://x.com/azed_ai/status/2118659946451783703) | E2 |
 | Minimalist Black Ink 极简黑墨插画模板 | @azed_ai | [GoodCase](https://goodcase.ai/cases/minimalist-black-ink-1320175f83f5) | [Media](https://media.goodcase.ai/cases/3b100bae7f8d.jpg) | [Original](https://x.com/azed_ai/status/2124820022094917711) | E3 |
+| Surrealist Haute Couture 超现实主义高级定制插画模板 | @azed_ai | [GoodCase](https://goodcase.ai/cases/surrealist-haute-couture-c8ba03a89e88) | [Media](https://media.goodcase.ai/cases/ee3c06637788.jpg) | [Original](https://x.com/azed_ai/status/2125544300683620503) | E4 |
 
 ## Derivation boundary
 
