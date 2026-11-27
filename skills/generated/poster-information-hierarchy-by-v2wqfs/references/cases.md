@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Goodmanprotocol. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to Goodmanprotocol. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -78,7 +78,50 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - Edition number: EDITION 01.
 > - Small subtitle describing the activity or enviro…
 
-### E3 · 和纸胶带拼贴主题剪影
+### E3 · 罪恶城落日棕榈衫男人海报
+
+- Creator: @Goodmanprotocol
+- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-transform-the-person-in-the-uploaded-reference-photograph-into-a-stunning-grand-e62a108fa8bf) · [finished media](https://media.goodcase.ai/cases/2dd98a087fc6.jpg) · [original source](https://x.com/Goodmanprotocol/status/2123829307579785405)
+- Summary: GTA VI 🌆 GPT Image 2.6 Prompt: GTA VI | BOLD VICE CITY CHARACTER POSTER Transform the person in the uploaded reference photograph into a stunning Grand Theft A…
+- Prompt excerpt:
+
+> GTA VI | BOLD VICE CITY CHARACTER POSTER
+>
+> Transform the person in the uploaded reference photograph into a stunning Grand Theft Auto VI-inspired character poster, capturing the bold, glamorous, rebellious atmosphere of Vice City and the iconic Rockstar promotional artwork aesthetic.
+>
+> 1. SUBJECT & IDENTITY
+>
+> Preserve the person's exact facial identity, facial structure, eyes, nose, lips, hairstyle, skin tone, and recognizable features. Maintain natural proportions and realistic anatomy. The person must remain immediately recognizable.
+>
+> 2. EXPRESSION & ATTITUDE
+>
+> Give the subject a bold, fearless, confident personality.
+>
+> - Intense, captivating eye contact with the camera.
+> - Slightly raised chin and a powerful expression.
+> - Effortless charisma with a hint of rebellious attitude.
+> - No innocent smiles, shy expressions, or overly cute poses.
+>
+> 3. FASHION & POSE
+>
+> Choose stylish, luxury Miami-inspired clothing such as a premium open-collar shirt, elegant summer outfit, or fashionable streetwear. Add subtle statement accessories where appropriate. Use a confident, natural pose with slightly angled shoulders, expressive body language, and naturally flowing hair.
+>
+> 4. VICE CITY ENVIRONMENT
+>
+> Create a vibrant Miami-inspired nighttime or sunset background featuring:
+>
+> - Tropical palm trees and illuminated skyscrapers.
+> - A spectacular pink, purple, and orange sunset.
+> - Neon-lit streets and glowing Vice City signs.
+> - Luxury sports cars with glossy reflections.
+> - A helicopter flying across the skyline.
+> - A glamorous tropical nightlife atmosphere.
+>
+> 5. ART STYLE & LIGHTING
+>
+> Use a premium GTA VI-in…
+
+### E4 · 和纸胶带拼贴主题剪影
 
 - Creator: @Goodmanprotocol
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-create-one-premium-3-4-vertical-washi-tape-collage-artwork-for-country-locat-ce31c974f64b) · [finished media](https://media.goodcase.ai/cases/a014eee8a6c5.jpg) · [original source](https://x.com/Goodmanprotocol/status/2100452165416374277)
@@ -129,7 +172,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Maintain generous negative space around the artwork.…
 
-### E4 · 半影半印的人像旅行拼贴
+### E5 · 半影半印的人像旅行拼贴
 
 - Creator: @Goodmanprotocol
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-turn-this-portrait-photo-into-a-single-high-end-halftone-travel-collage-poster-d72f910456eb) · [finished media](https://media.goodcase.ai/cases/a583ec40a9ab.jpg) · [original source](https://x.com/Goodmanprotocol/status/2099078060058550703)
@@ -153,7 +196,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - Color: warm gray paper + black ink + the photo's own muted original colors + the single red accent. Never fully desaturate.
 > - Figure fills roughly 60–88% of the frame widt…
 
-### E5 · 复古旅行海报拼贴
+### E6 · 复古旅行海报拼贴
 
 - Creator: @Goodmanprotocol
 - Evidence: [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) · [finished media](https://media.goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) · [original source](https://x.com/Goodmanprotocol/status/2055882758845878709)
@@ -254,9 +297,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | Alcohol Marker Travel Poster Prompt | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/Goodmanprotocol/status/2086685317822890146) | E1 |
 | 单板滑雪者劈雪的杂志封面 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-create-a-premium-photorealistic-editorial-magazine-poster-inspired-by-high-end-2df7d8c24fc5) | [Media](https://media.goodcase.ai/cases/c8c602d1e0bf.jpg) | [Original](https://x.com/Goodmanprotocol/status/2119083132691615772) | E2 |
-| 和纸胶带拼贴主题剪影 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-create-one-premium-3-4-vertical-washi-tape-collage-artwork-for-country-locat-ce31c974f64b) | [Media](https://media.goodcase.ai/cases/a014eee8a6c5.jpg) | [Original](https://x.com/Goodmanprotocol/status/2100452165416374277) | E3 |
-| 半影半印的人像旅行拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-turn-this-portrait-photo-into-a-single-high-end-halftone-travel-collage-poster-d72f910456eb) | [Media](https://media.goodcase.ai/cases/a583ec40a9ab.jpg) | [Original](https://x.com/Goodmanprotocol/status/2099078060058550703) | E4 |
-| 复古旅行海报拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) | [Media](https://media.goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) | [Original](https://x.com/Goodmanprotocol/status/2055882758845878709) | E5 |
+| 罪恶城落日棕榈衫男人海报 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-transform-the-person-in-the-uploaded-reference-photograph-into-a-stunning-grand-e62a108fa8bf) | [Media](https://media.goodcase.ai/cases/2dd98a087fc6.jpg) | [Original](https://x.com/Goodmanprotocol/status/2123829307579785405) | E3 |
+| 和纸胶带拼贴主题剪影 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-create-one-premium-3-4-vertical-washi-tape-collage-artwork-for-country-locat-ce31c974f64b) | [Media](https://media.goodcase.ai/cases/a014eee8a6c5.jpg) | [Original](https://x.com/Goodmanprotocol/status/2100452165416374277) | E4 |
+| 半影半印的人像旅行拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-turn-this-portrait-photo-into-a-single-high-end-halftone-travel-collage-poster-d72f910456eb) | [Media](https://media.goodcase.ai/cases/a583ec40a9ab.jpg) | [Original](https://x.com/Goodmanprotocol/status/2099078060058550703) | E5 |
+| 复古旅行海报拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) | [Media](https://media.goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) | [Original](https://x.com/Goodmanprotocol/status/2055882758845878709) | E6 |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 81 published Cases across 38 creators.
+This workflow is derived from 86 published Cases across 39 creators.
 
 ## Operating rule
 
@@ -245,7 +245,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 贴纸拼贴 / 创意图像合成/钱包/护照夹 | 野猪A6 | [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) | [Media](https://media.goodcase.ai/media/image/case-6d72adabab02.webp) | [Original](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9) | E— |
 | 玻璃杯里的微缩手绘小人插画 | @MrLarus | [GoodCase](https://goodcase.ai/cases/case-7730f07ddd34) | [Media](https://media.goodcase.ai/cases/c7544278e913.jpg) | [Original](https://x.com/MrLarus/status/2120455717517984166) | E— |
 | 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E— |
-| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
+| 复古编辑摄影海报提示词 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-82d0bda32b66) | [Media](https://media.goodcase.ai/cases/c1150d301fa7.jpg) | [Original](https://x.com/Taaruk_/status/2124358326486269975) | E— |
 
 ## Derivation boundary
 

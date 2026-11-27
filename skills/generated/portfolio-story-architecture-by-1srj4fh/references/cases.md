@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 13 published Cases attributed to MotionSites. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 14 published Cases attributed to MotionSites. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -85,7 +85,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - Center (hidden below `md`): four nav links -- "Projects", "Studio", "Offerings", "Inquire" -- in `font-inter`, `text-sm`, `text-white/80`, `tracking-widest`, uppercase, with `hover:text-white` transition.
 > - Right (hidden…
 
-### E4 · Creative Studio
+### E4 · Container Portfolio
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/container-portfolio) · [finished media](https://media.goodcase.ai/cases/e2500b340028.mp4) · [poster](https://media.goodcase.ai/cases/2dd6e4ae892e.webp) · [original source](https://motionsites.ai/?prompt=container-portfolio)
+- Summary: 复制完整建站 Prompt 到 AI 编程工具（Cursor、v0、Claude 等）生成「Container Portfolio」对应的页面区块，替换文案、品牌与素材链接即可复用。 MotionSites 免费 Prompt 案例；站点不公开创作者，归属挂 MotionSites。
+- Prompt excerpt:
+
+> # Prompt: "Nadia's Depot" — container-crane portfolio hero
+>
+> Build a single-file, one-screen portfolio hero (`index.html`, no build step) for a fictional product designer called **Nadia**. The page is a shipping depot: a pile of chunky 3D corrugated shipping containers sits on a flat terracotta page, in front of a giant cream word **PROJECTS**. An overhead gantry crane runs along a rail under the nav. Clicking a container makes the crane travel to it, lower its cable, grab it, hoist it to the top centre of the screen and swing its two front doors open like a gatefold, revealing a dark corrugated interior with a content card inside. Recreate everything below exactly.
+>
+> ---
+>
+> ## 1. Tech and assets
+>
+> - Plain HTML + CSS + one `<script type="module">`. Three.js **0.160.0** from jsDelivr via an import map:
+>   - `three` → `https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js`
+>   - `three/addons/` → `https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/` (only `geometries/RoundedBoxGeometry.js` is used)
+> - No images and no video. All 3D is built in code; the corrugation is a generated normal map; container labels are canvas textures.
+> - Fonts (Google Fonts, latin subset, self-hosted woff2; the standalone file embeds them as base64 data URIs):
+>   - **Archivo**, width 125%, weight 800–900, registered as family `"Archivo X"` with `font-stretch:125%` — `https://fonts.gstatic.com/s/archivo/v25/k3kPo8UDI-1M0wlSV9XAw6lQkqWY8Q8EsLydOxI.woff2`. Used for the giant word and the stencil labels.
+>   - **Manrope** variable 200–800 — `https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRgg…
+
+### E5 · Creative Studio
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/creative-studio) · [finished media](https://media.goodcase.ai/cases/165720a4ee9a.webp) · [original source](https://motionsites.ai/?prompt=creative-studio)
@@ -130,7 +153,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - **Center (hidden on mobile, visible md+):** Four nav links: "Story", "Expertise", "Studios", "Feedback". Text: 14px, font-semibold, tracking-widest, uppercase, black.
 > - **Right…
 
-### E5 · Digital Director
+### E6 · Digital Director
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/digital-director) · [finished media](https://media.goodcase.ai/cases/2b0c6f1dcdb5.mp4) · [poster](https://media.goodcase.ai/cases/6e6e1cff7ae6.jpg) · [original source](https://motionsites.ai/?prompt=digital-director)
@@ -179,7 +202,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > ═══════════════════════════════════════
 > BACKGROUND VIDEO (exact URL…
 
-### E6 · Laptop Portfolio
+### E7 · Laptop Portfolio
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/laptop-portfolio) · [finished media](https://media.goodcase.ai/cases/93acf4ff372a.mp4) · [poster](https://media.goodcase.ai/cases/d1c4aa41b2e1.webp) · [original source](https://motionsites.ai/?prompt=laptop-portfolio)
@@ -215,7 +238,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > |---|---|---|
 > | `plate` | `CF + 'hf_20261111_001031_a09dc558-2c69-4e05-83a4-5f01e…
 
-### E7 · Max Reed Portfolio
+### E8 · Max Reed Portfolio
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) · [finished media](https://media.goodcase.ai/cases/345c1b608f88.webp) · [original source](https://motionsites.ai/?prompt=max-reed-portfolio)
@@ -239,34 +262,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >   - 2023-Now · Freelance Creative · Solo Studio
 >   - 2020-2023 · Head of Brand Design · Rove…
 
-### E8 · Modern Agency
-
-- Creator: MotionSites
-- Evidence: [GoodCase](https://goodcase.ai/cases/modern-agency) · [finished media](https://media.goodcase.ai/cases/4782ee3ed985.webp) · [original source](https://motionsites.ai/?prompt=modern-agency)
-- Summary: 设计机构 Axion Studio 的落地页，hero 背景用 shaders 包做着色器效果，这批里唯一用 WebGL 着色器的。
-- Prompt excerpt:
-
-> Build a React + Vite + Tailwind CSS landing page for "Axion Studio" - a design agency site. Use the `shaders` package (npm: `shaders`) for the hero background, `lucide-react` for icons. The page has 3 sections. Match every detail exactly:
->
-> ---
->
-> ## SECTION 1: HERO (Full viewport height)
->
-> **Background:** Light gray `#EFEFEF` with a full-screen animated shader overlay (positioned absolute, inset-0, z-10, pointer-events-none). The shader stack uses components from `shaders/react`:
-> - `Swirl` - colorA: `#ffffff`, colorB: `#f0f0f0`, detail: 1.7
-> - `ChromaFlow` - baseColor: `#ffffff`, downColor/leftColor/rightColor/upColor: `#ff5f03`, momentum: 13, radius: 3.5
-> - `FlutedGlass` - aberration: 0.61, angle: 31, frequency: 8, highlight: 0.12, highlightSoftness: 0, lightAngle: -90, refraction: 4, shape: "rounded", softness: 1, speed: 0.15
-> - `FilmGrain` - strength: 0.05
->
-> **Navigation (z-20, relative):** A pill-shaped white navbar (`bg-white rounded-full`) with 5px padding, inside a max-w-[1440px] container with p-2 sm:p-3.
->
-> - LEFT: Dark circle logo (w-9 h-9 sm:w-10 sm:h-10, bg-gray-900, rounded-full) with white text "AX" (10px/11px, font-bold, tracking-tight). Next to it (hidden on mobile, shown md+): nav links "Projects", "Studio", "Journal", "Connect" - 14px, text-gray-900, hover:text-gray-500, transition-colors duration-300, gap-6.
->
-> - RIGHT (hidden on mobile, shown md+):
->   - Text "Taking on projects for Q1 2026" (13px, text-gray-600, hidden below lg)
->   - Clock icon (lucide, size 14) + live London time "{HH:MM} in London" (13px, text-gray-600)
->   - CTA button: bg-gray-900, text-white, 13p…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -274,11 +269,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 3D Jack Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) | [Media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) | [Original](https://motionsites.ai/?prompt=3d-jack-portfolio-hero) | E1 |
 | AI Designer Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-designer-portfolio) | [Media](https://media.goodcase.ai/cases/1095b425fdb4.gif) | [Original](https://motionsites.ai/?prompt=vortex-studio-hero) | E2 |
 | Bold Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/bold-studio) | [Media](https://media.goodcase.ai/cases/7f31efa5103a.webp) | [Original](https://motionsites.ai/?prompt=bold-studio) | E3 |
-| Creative Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/creative-studio) | [Media](https://media.goodcase.ai/cases/165720a4ee9a.webp) | [Original](https://motionsites.ai/?prompt=creative-studio) | E4 |
-| Digital Director | MotionSites | [GoodCase](https://goodcase.ai/cases/digital-director) | [Media](https://media.goodcase.ai/cases/2b0c6f1dcdb5.mp4) | [Original](https://motionsites.ai/?prompt=digital-director) | E5 |
-| Laptop Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/laptop-portfolio) | [Media](https://media.goodcase.ai/cases/93acf4ff372a.mp4) | [Original](https://motionsites.ai/?prompt=laptop-portfolio) | E6 |
-| Max Reed Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) | [Media](https://media.goodcase.ai/cases/345c1b608f88.webp) | [Original](https://motionsites.ai/?prompt=max-reed-portfolio) | E7 |
-| Modern Agency | MotionSites | [GoodCase](https://goodcase.ai/cases/modern-agency) | [Media](https://media.goodcase.ai/cases/4782ee3ed985.webp) | [Original](https://motionsites.ai/?prompt=modern-agency) | E8 |
+| Container Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/container-portfolio) | [Media](https://media.goodcase.ai/cases/e2500b340028.mp4) | [Original](https://motionsites.ai/?prompt=container-portfolio) | E4 |
+| Creative Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/creative-studio) | [Media](https://media.goodcase.ai/cases/165720a4ee9a.webp) | [Original](https://motionsites.ai/?prompt=creative-studio) | E5 |
+| Digital Director | MotionSites | [GoodCase](https://goodcase.ai/cases/digital-director) | [Media](https://media.goodcase.ai/cases/2b0c6f1dcdb5.mp4) | [Original](https://motionsites.ai/?prompt=digital-director) | E6 |
+| Laptop Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/laptop-portfolio) | [Media](https://media.goodcase.ai/cases/93acf4ff372a.mp4) | [Original](https://motionsites.ai/?prompt=laptop-portfolio) | E7 |
+| Max Reed Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) | [Media](https://media.goodcase.ai/cases/345c1b608f88.webp) | [Original](https://motionsites.ai/?prompt=max-reed-portfolio) | E8 |
+| Modern Agency | MotionSites | [GoodCase](https://goodcase.ai/cases/modern-agency) | [Media](https://media.goodcase.ai/cases/4782ee3ed985.webp) | [Original](https://motionsites.ai/?prompt=modern-agency) | E— |
 | Portfolio About | MotionSites | [GoodCase](https://goodcase.ai/cases/portfolio-about) | [Media](https://media.goodcase.ai/cases/64ad3c467e32.webp) | [Original](https://motionsites.ai/?prompt=portfolio-about) | E— |
 | Portfolio Cosmic | MotionSites | [GoodCase](https://goodcase.ai/cases/portfolio-cosmic) | [Media](https://media.goodcase.ai/cases/cabdb2cf1961.gif) | [Original](https://motionsites.ai/?prompt=portfolio-cosmic-hero) | E— |
 | Prisma Creative Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/prisma-creative-studio) | [Media](https://media.goodcase.ai/cases/ba4c62201b67.webp) | [Original](https://motionsites.ai/?prompt=prisma-landing) | E— |

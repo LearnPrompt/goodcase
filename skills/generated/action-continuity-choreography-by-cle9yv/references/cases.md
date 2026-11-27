@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to Xaroon_x. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 7 published Cases attributed to Xaroon_x. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -31,7 +31,24 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > **00:11–00:14** SLOW MOTION, low rear three-quarter, 35mm, slow orbit. The hero swerves clear and the red coupe clips a truck, spins and rolls once. The whole crash stays fully in frame, clear and sharp, with glass and debris glittering in the sun. Rack f…
 
-### E2 · 雨夜水榭银金双剑对决
+### E2 · 曼哈顿街头重力翻转的出租车追逐
+
+- Creator: @Xaroon_x
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-26-second-ultra-realistic-hollywood-action-sequence-featuring-as-the-p-2b25365eb96d) · [finished media](https://media.goodcase.ai/cases/8a36d298c2df.mp4) · [poster](https://media.goodcase.ai/cases/9476e05b7446.jpg) · [original source](https://x.com/Xaroon_x/status/2124806317655138351)
+- Summary: When gravity breaks, the chase begins. Experience mind-blowing cinematic action with Seedance 2.5 on @frameo_ai. Turning imagination into Hollywood-level visual…
+- Prompt excerpt:
+
+> Create a 26-second ultra-realistic Hollywood action sequence featuring @image1 as the protagonist and @image2 as the antagonist. Use the uploaded character references to preserve both characters’ facial identity, hairstyle, body proportions, and appearance throughout the entire video.
+>
+> SCENE 1 — THE CHASE (0–6s): A crowded Manhattan street filled with yellow taxis, towering skyscrapers, and pedestrians. @image1, wearing a tailored black suit and white shirt, sprints through traffic as @image2, dressed in a black hooded outfit, pursues him. Low-angle tracking shots follow their movements. A massive truck passes between them as they narrowly avoid a collision.
+>
+> SCENE 2 — GRAVITY BREAKS (6–13s): The street suddenly tilts sideways. Yellow taxis lift into the air, rotating slowly as gravity shifts. @image1 slides beneath a moving vehicle and leaps onto the side of a taxi. @image2 runs across the tilted street, jumping between suspended cars. Dust, shattered glass, and debris fill the environment. Use dynamic camera rotations and realistic vehicle physics.
+>
+> SCENE 3 — THE CITY TURNS UPSIDE DOWN (13–20s): Buildings rotate around the characters as the urban environment transforms into a vertical canyon. @image1 leaps through the open rear doors of a moving delivery truck, then launches himself toward a nearby rooftop. @image2 follows, jumping across floating vehicles and narrowly avoiding falling debris. Show breathtaking aerial perspectives, dramatic close-ups, and a dizzying sense of height.
+>
+> SCENE 4 — THE ROOFTOP CLIMAX (20–26s): @image1 lands hard on a rooftop, rolls, and rises…
+
+### E3 · 雨夜水榭银金双剑对决
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-hollywood-sword-battle-with-arri-alexa-cine-b796fdddd0e2) · [finished media](https://media.goodcase.ai/cases/353590440535.mp4) · [poster](https://media.goodcase.ai/cases/c205963b7244.jpg) · [original source](https://x.com/Xaroon_x/status/2121972843881881841)
@@ -74,7 +91,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Both auras remain attached to bodies and weapons throughout. Particles compress, redirect, and scatter during collis…
 
-### E3 · 摩托骑士公路追击绑匪营救女子
+### E4 · 摩托骑士公路追击绑匪营救女子
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) · [finished media](https://media.goodcase.ai/cases/ad17462a0159.mp4) · [poster](https://media.goodcase.ai/cases/45e13252a14d.jpg) · [original source](https://x.com/Xaroon_x/status/2115374004529664166)
@@ -105,7 +122,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 00:15–00:22 — MARTIAL ARTS SHOWDO…
 
-### E4 · 满月下浮空神殿的双武士对决
+### E5 · 满月下浮空神殿的双武士对决
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c) · [finished media](https://media.goodcase.ai/cases/57828cbaead4.mp4) · [poster](https://media.goodcase.ai/cases/360f933d9283.jpg) · [original source](https://x.com/Xaroon_x/status/2117623327179280408)
@@ -137,7 +154,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 00:15–00:18: Intense multi-angle sword duel. Protagonist performs sliding attacks, s…
 
-### E5 · 云海坠落宇航员唤醒巨型飞船
+### E6 · 云海坠落宇航员唤醒巨型飞船
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) · [finished media](https://media.goodcase.ai/cases/f54522516fc0.mp4) · [poster](https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg) · [original source](https://x.com/Xaroon_x/status/2101313046383821093)
@@ -160,7 +177,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Photorealistic high-budget Hollywood science-fiction film. ARRI Alexa cinematic look, realistic skin and metal textures, physically accurate reflections, volumetric clouds, atmospheric haze, HDR, cinematic depth of field, subtle film grain, realistic motion blur and natural light…
 
-### E6 · 武士挥刀撕裂空间
+### E7 · 武士挥刀撕裂空间
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) · [finished media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.jpg) · [original source](https://x.com/Xaroon_x/status/2096602048556900579)
@@ -192,11 +209,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 夕阳下黑色轿车的追逐与枪战 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) | [Media](https://media.goodcase.ai/cases/75e713901ea3.mp4) | [Original](https://x.com/Xaroon_x/status/2107838928992489968) | E1 |
-| 雨夜水榭银金双剑对决 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-hollywood-sword-battle-with-arri-alexa-cine-b796fdddd0e2) | [Media](https://media.goodcase.ai/cases/353590440535.mp4) | [Original](https://x.com/Xaroon_x/status/2121972843881881841) | E2 |
-| 摩托骑士公路追击绑匪营救女子 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) | [Media](https://media.goodcase.ai/cases/ad17462a0159.mp4) | [Original](https://x.com/Xaroon_x/status/2115374004529664166) | E3 |
-| 满月下浮空神殿的双武士对决 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c) | [Media](https://media.goodcase.ai/cases/57828cbaead4.mp4) | [Original](https://x.com/Xaroon_x/status/2117623327179280408) | E4 |
-| 云海坠落宇航员唤醒巨型飞船 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) | [Media](https://media.goodcase.ai/cases/f54522516fc0.mp4) | [Original](https://x.com/Xaroon_x/status/2101313046383821093) | E5 |
-| 武士挥刀撕裂空间 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) | [Media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) | [Original](https://x.com/Xaroon_x/status/2096602048556900579) | E6 |
+| 曼哈顿街头重力翻转的出租车追逐 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-26-second-ultra-realistic-hollywood-action-sequence-featuring-as-the-p-2b25365eb96d) | [Media](https://media.goodcase.ai/cases/8a36d298c2df.mp4) | [Original](https://x.com/Xaroon_x/status/2124806317655138351) | E2 |
+| 雨夜水榭银金双剑对决 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-hollywood-sword-battle-with-arri-alexa-cine-b796fdddd0e2) | [Media](https://media.goodcase.ai/cases/353590440535.mp4) | [Original](https://x.com/Xaroon_x/status/2121972843881881841) | E3 |
+| 摩托骑士公路追击绑匪营救女子 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) | [Media](https://media.goodcase.ai/cases/ad17462a0159.mp4) | [Original](https://x.com/Xaroon_x/status/2115374004529664166) | E4 |
+| 满月下浮空神殿的双武士对决 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c) | [Media](https://media.goodcase.ai/cases/57828cbaead4.mp4) | [Original](https://x.com/Xaroon_x/status/2117623327179280408) | E5 |
+| 云海坠落宇航员唤醒巨型飞船 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) | [Media](https://media.goodcase.ai/cases/f54522516fc0.mp4) | [Original](https://x.com/Xaroon_x/status/2101313046383821093) | E6 |
+| 武士挥刀撕裂空间 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) | [Media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) | [Original](https://x.com/Xaroon_x/status/2096602048556900579) | E7 |
 
 ## Derivation boundary
 

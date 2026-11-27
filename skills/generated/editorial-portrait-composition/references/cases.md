@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 123 published Cases across 76 creators.
+This workflow is derived from 132 published Cases across 80 creators.
 
 ## Operating rule
 
@@ -76,7 +76,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 縦長9:16、白い室内で撮影した極めて明るく清潔なフォトリアルの美容ポートレート。実在人物ではない架空の成人日本人女性、見た目は{argument name="年齢" default="23〜28歳"}。顔を画面中央に大きく配置し、頭頂から胸上までのタイトなクローズアップ。肩をわずかに右へ傾け、首を少し左へ倒し、カメラへ正面の視線。額・両目・鼻・口・顎がすべて画面内に入り、髪は左右へ長く流れて縦構図を埋める。{argument name="ヘアスタイル" default="黒に近い艶のあるロングヘア"}、胸より下まで続く長さ、中央より少し左の分け目。額には空気を含んだ細いシースルーバング、頬の横に数本の繊細な毛束、毛先は緩いウェーブ。大きすぎないダークブラウンの瞳、自然な二重、繊細な上下まつ毛、ピーチベージュのアイメイク、薄いコーラルチーク。口を少し開いた自然な笑顔で整った上の歯が見える。淡いピンクの艶リップ。丸みのある頬と滑らかな顎、健康的で明るい肌。ただし毛穴、産毛、唇の縦じわ、虹彩の細部は残す。衣装は{argument name="服装" default="白〜アイボリーの柔らかいコットンブラウス"}。丸い襟ぐり、胸元に細かなギャザーと小さな白ボタン。アクセサリーなし。背景は完全な白ではなく、白い壁と窓光が溶けたごく淡いグレー。被写体の右後方から柔らかな逆光、顔の正面は大きな白いレフ板で均一に起こす。高キーだが白飛びさせず、髪の黒と瞳の輪郭を残す。85〜105mm相当、f/2.2、目線の高さ、瞳に最優先でピント。顔のパースを歪ませず、背景だけ滑らかにぼかす。ビューティー広告の精密さと自然光ポートレートの親近感を両立。文字、ロゴ、透かし、アクセサリー、派手なネイル、余分な歯、左右で異なる瞳、過度に巨大な目、蝋人形の肌、強い輪郭補正、イラスト感、3DCG感を入れない。
 
-### E6 · 编辑风射箭时尚摄影提示词
+### E6 · 复古胶片人像提示词
+
+- Creator: @dreamydigiarts
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-059b579f33f6) · [finished media](https://media.goodcase.ai/cases/550553bc17cb.jpg) · [original source](https://x.com/dreamydigiarts/status/2124337084575932832)
+- Summary: 使用 Nano Banana 2 (Pro) 生成原始风格复古胶片人像的详细提示词。画面呈现一位手持白玫瑰的女性，沐浴在黄金时刻的光影中。
+- Prompt excerpt:
+
+> A raw-style photo with a vintage film effect and added grain. The woman stands relaxed, leaning her back against a wall during golden hour. In both hands, she holds a bouquet of huge white roses, more than 30 flowers. She presses it against her chest. Her long, wavy hair falls slightly over her face, creating a natural, unposed look. Part of her face is illuminated by sunbeams, giving the image the warm and soft lighting characteristic of golden hour. The woman looks at the camera. She is wearing a short dark denim shirt dress with long, wide sleeves; the buttons on the chest are fastened all the way to the hem of the dress; black nylon tights and high black boots. The background is minimalist, helping focus attention on her appearance and the atmosphere. Y2K style. Format 9:16.
+
+### E7 · 编辑风射箭时尚摄影提示词
 
 - Creator: @dreamydigiarts
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-0e99c4bdbd04) · [finished media](https://media.goodcase.ai/cases/a223df19c638.jpg) · [original source](https://x.com/dreamydigiarts/status/2119059798884823085)
@@ -85,7 +94,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Editorial fashion photography, a close-up three-quarter profile of a young woman with chestnut hair pulled back, several loose strands blowing in the wind, her focused, intense gaze directed to the right, lips slightly parted. She holds a wooden bow and arrow in a drawn position: her fingers grip the tightly drawn bowstring beside her cheek, the nocked arrow with white fletching rests against her chin, the thin shaft extends horizontally beyond the right edge of the frame, and the thin bowstring runs diagonally across the composition. She is wearing a fitted black long-sleeve top. Strong, hard, directional sunlight from the side models her face, neck, and shoulders, casting sharp, high-contrast shadows, including a thin diagonal shadow line from the bowstring across her cheek and chest. The background is a clean gradient blue sky, deeper cobalt at the top transitioning into a soft, smoky blue palette at the bottom. Low camera angle, tight framing on the head and upper torso, shallow depth of field, subtle film grain, warm sunlit skin tones against the cool blue sky, cinematic dramatic mood, glossy magazine aesthetic.
 
-### E7 · 奇多零食广告人像
+### E8 · 奇多零食广告人像
 
 - Creator: @Sheldon056
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-11020401ca1c) · [finished media](https://media.goodcase.ai/cases/bb3581c70f30.jpg) · [original source](https://x.com/Sheldon056/status/2106587208916566057)
@@ -98,15 +107,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Soft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.
 > Expressive smile, fun street-commercial aesthetic.
 
-### E8 · 咖啡馆里的生动肖像
-
-- Creator: @aatif_j
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) · [original source](https://x.com/aatif_j/status/2081492288836981123)
-- Summary: 一张温暖而自然的肖像提示词，描绘了一位在温馨质朴的咖啡馆中开怀大笑的年轻男子。
-- Prompt excerpt:
-
-> This vertical portrait captures a {argument name="subject" default="charming, handsome young man with wavy dark hair"}, laughing heartily while engaged in a lively conversation at a {argument name="setting" default="rustic, cozy cafe"}. He is dressed in a casual {argument name="clothing" default="olive green linen shirt"} and is seated at a worn wooden table, where a freshly brewed cup of coffee rests beside a notebook. The warm, inviting atmosphere is enhanced by soft ambient lighting, string lights glowing in the background, and the blurred silhouettes of other patrons, creating an authentic and candid sense of a relaxed afternoon spent with a friend.
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -116,21 +116,21 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词 | ✂️奥利oli | [GoodCase](https://goodcase.ai/cases/90-251783eee4c4) | [Media](https://media.goodcase.ai/supabase-legacy/case-posters/dy-note-7658151707444120842-0.jpg) | [Original](https://www.douyin.com/note/7658151707444120842) | E3 |
 | 街头时尚风格蛋糕刀人像 | @oye_samia | [GoodCase](https://goodcase.ai/cases/case-02edea96c188) | [Media](https://media.goodcase.ai/cases/491b5d270d86.jpg) | [Original](https://x.com/oye_samia/status/2054554374270226871) | E4 |
 | 干净的高调美妆肖像 | @AiPhotoDesigner | [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) | [Media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) | [Original](https://x.com/AiPhotoDesigner/status/2081613584493125717) | E5 |
-| 编辑风射箭时尚摄影提示词 | @dreamydigiarts | [GoodCase](https://goodcase.ai/cases/case-0e99c4bdbd04) | [Media](https://media.goodcase.ai/cases/a223df19c638.jpg) | [Original](https://x.com/dreamydigiarts/status/2119059798884823085) | E6 |
-| 奇多零食广告人像 | @Sheldon056 | [GoodCase](https://goodcase.ai/cases/case-11020401ca1c) | [Media](https://media.goodcase.ai/cases/bb3581c70f30.jpg) | [Original](https://x.com/Sheldon056/status/2106587208916566057) | E7 |
-| 咖啡馆里的生动肖像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/aatif_j/status/2081492288836981123) | E8 |
+| 复古胶片人像提示词 | @dreamydigiarts | [GoodCase](https://goodcase.ai/cases/case-059b579f33f6) | [Media](https://media.goodcase.ai/cases/550553bc17cb.jpg) | [Original](https://x.com/dreamydigiarts/status/2124337084575932832) | E6 |
+| 编辑风射箭时尚摄影提示词 | @dreamydigiarts | [GoodCase](https://goodcase.ai/cases/case-0e99c4bdbd04) | [Media](https://media.goodcase.ai/cases/a223df19c638.jpg) | [Original](https://x.com/dreamydigiarts/status/2119059798884823085) | E7 |
+| 奇多零食广告人像 | @Sheldon056 | [GoodCase](https://goodcase.ai/cases/case-11020401ca1c) | [Media](https://media.goodcase.ai/cases/bb3581c70f30.jpg) | [Original](https://x.com/Sheldon056/status/2106587208916566057) | E8 |
+| 咖啡馆里的生动肖像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/aatif_j/status/2081492288836981123) | E— |
 | 男士时尚杂志大片拍摄 | @iamrealsnow | [GoodCase](https://goodcase.ai/cases/case-18401fd311fe) | [Media](https://media.goodcase.ai/cases/007f3dfbabc2.jpg) | [Original](https://x.com/iamrealsnow/status/2097920542284382260) | E— |
 | 在這广袤天地：藏地仪式面具表演者仰拍肖像 | 泡面AIGC | [GoodCase](https://goodcase.ai/cases/case-1c3a05467f98) | [Media](https://media.goodcase.ai/supply-media/douyin-accounts-20261020/7672751011496250670/media-img-01.webp) | [Original](https://www.douyin.com/note/7672751011496250670?gc=7672751011496250670-1) | E— |
 | 光纤超现实主义人像提示词 | @timedoctor_nft | [GoodCase](https://goodcase.ai/cases/case-1c653d9bb8af) | [Media](https://media.goodcase.ai/cases/2d41c8a49ca7.jpg) | [Original](https://x.com/timedoctor_nft/status/2117611010387222717) | E— |
 | 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E— |
 | 香港酒店阳台夜景手持自拍 | @VibeEverything | [GoodCase](https://goodcase.ai/cases/case-1f03fd6e7145) | [Media](https://media.goodcase.ai/cases/e93d450454e3.jpg) | [Original](https://x.com/VibeEverything/status/2120470049672826952) | E— |
+| 定格动画黏土人偶肖像 | @AJMorales73 | [GoodCase](https://goodcase.ai/cases/case-247d27c52d6b) | [Media](https://media.goodcase.ai/cases/9299f02e8024.jpg) | [Original](https://x.com/AJMorales73/status/2125214098938048614) | E— |
 | 当繁华褪去：薄纱遮面低头沉思的黑白女子肖像 | 泡面AIGC | [GoodCase](https://goodcase.ai/cases/case-24f8727d36e5) | [Media](https://media.goodcase.ai/supply-media/douyin-accounts-20261021/7673032868087467310/media-img-08.webp) | [Original](https://www.douyin.com/note/7673032868087467310?gc=7673032868087467310-8) | E— |
 | 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E— |
 | 高级时尚编辑风格提示词 | @dreamydigiarts | [GoodCase](https://goodcase.ai/cases/case-2c5f79636757) | [Media](https://media.goodcase.ai/cases/42098516847e.jpg) | [Original](https://x.com/dreamydigiarts/status/2116847725648261496) | E— |
 | 表现主义写实混合风格肖像 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-38b56d40cd1d) | [Media](https://media.goodcase.ai/cases/b09928f6cfd7.jpg) | [Original](https://x.com/HustleXR/status/2096951148515385716) | E— |
 | 保留面部特征的超写实冬季时尚人像 | @Elvorya | [GoodCase](https://goodcase.ai/cases/case-3f19188215a0) | [Media](https://media.goodcase.ai/cases/a5332fc222a7.jpg) | [Original](https://x.com/Elvorya/status/2121243826673349104) | E— |
-| 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E— |
-| 奢华摄影棚时尚大片 | @john_my07 | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/john_my07/status/2080344542885335240) | E— |
 
 ## Derivation boundary
 

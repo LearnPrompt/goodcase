@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 14 creators.
+This workflow is derived from 31 published Cases across 14 creators.
 
 ## Operating rule
 
@@ -204,6 +204,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | ChatGPT Image 个人品牌网站视觉稿 | @Preda2005 | [GoodCase](https://goodcase.ai/cases/chatgpt-image-6b1a9b28c881) | [Media](https://media.goodcase.ai/media/image/chatgpt-image-6b1a9b28c881.jpg) | [Original](https://x.com/Preda2005/status/2047034246758637618) | E— |
 | Claude Mythos：Lithos 地质品牌 Hero | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-mythos-lithos-hero-df0603661e88) | [Media](https://media.goodcase.ai/media/video/claude-mythos-lithos-hero-df0603661e88.mp4) | [Original](https://x.com/viktoroddy/status/2065418614627602509) | E— |
 | Claude Sonnet 个人内容网站 | @DeepakNesss | [GoodCase](https://goodcase.ai/cases/claude-sonnet-9d14caba8de0) | [Media](https://media.goodcase.ai/media/video/claude-sonnet-9d14caba8de0.mp4) | [Original](https://x.com/DeepakNesss/status/2072142373698797716) | E— |
+| Container Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/container-portfolio) | [Media](https://media.goodcase.ai/cases/e2500b340028.mp4) | [Original](https://motionsites.ai/?prompt=container-portfolio) | E— |
 | Creative Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/creative-studio) | [Media](https://media.goodcase.ai/cases/165720a4ee9a.webp) | [Original](https://motionsites.ai/?prompt=creative-studio) | E— |
 | Digital Director | MotionSites | [GoodCase](https://goodcase.ai/cases/digital-director) | [Media](https://media.goodcase.ai/cases/2b0c6f1dcdb5.mp4) | [Original](https://motionsites.ai/?prompt=digital-director) | E— |
 | Dora AI 摄影师作品集 | @Mr_AllenT | [GoodCase](https://goodcase.ai/cases/dora-ai-58f4cdc4795f) | [Media](https://media.goodcase.ai/media/video/dora-ai-58f4cdc4795f.mp4) | [Original](https://x.com/Mr_AllenT/status/1770409662405394767) | E— |
@@ -211,7 +212,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | HeroUI 电影导演作品集 | @EHuanglu | [GoodCase](https://goodcase.ai/cases/heroui-4d865532ebbb) | [Media](https://media.goodcase.ai/media/video/heroui-4d865532ebbb.mp4) | [Original](https://x.com/EHuanglu/status/1927257751480045778) | E— |
 | Laptop Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/laptop-portfolio) | [Media](https://media.goodcase.ai/cases/93acf4ff372a.mp4) | [Original](https://motionsites.ai/?prompt=laptop-portfolio) | E— |
 | Max Reed Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) | [Media](https://media.goodcase.ai/cases/345c1b608f88.webp) | [Original](https://motionsites.ai/?prompt=max-reed-portfolio) | E— |
-| Modern Agency | MotionSites | [GoodCase](https://goodcase.ai/cases/modern-agency) | [Media](https://media.goodcase.ai/cases/4782ee3ed985.webp) | [Original](https://motionsites.ai/?prompt=modern-agency) | E— |
 
 ## Derivation boundary
 

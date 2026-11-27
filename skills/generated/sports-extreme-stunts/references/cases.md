@@ -1,12 +1,28 @@
 # Case evidence
 
-This workflow is derived from 41 published Cases across 37 creators.
+This workflow is derived from 52 published Cases across 45 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 女骑手穿越险峻山径抵达山谷
+### E1 · 小毛球林中连环惊扰狮虎狼
+
+- Creator: @aiwithaayat
+- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaayat-minimax-h3-ai-7633bd80405e) · [finished media](https://media.goodcase.ai/cases/9207f41a4ba6.mp4) · [poster](https://media.goodcase.ai/cases/fcdb4b8b3c09.jpg) · [original source](https://x.com/aiwithaayat/status/2124012817493975202)
+- Summary: When a tiny creature meets the wildest personalities. 😂 Big surprises, little hero, and endless cartoon chaos. Created with MiniMax H3 Prompt Create a high-qua…
+- Prompt excerpt:
+
+> When a tiny creature meets the wildest personalities. 😂
+> Big surprises, little hero, and endless cartoon chaos.
+>
+> Created with MiniMax H3
+>
+> Prompt
+>
+> Create a high-quality 3D animated cartoon short film set in a beautiful sunlit forest with lush green grass, tall trees, and a peaceful dirt pathway. Feature a tiny, adorable, fluffy brown creature with a round body, cream-colored belly, big expressive eyes, a small nose, and a little tuft of hair on its head. The little creature cautiously approaches a giant golden lion resting peacefully on the ground, holding a tiny stick and looking surprisingly confident. Suddenly, the lion opens its enormous mouth in a dramatic yawn, making the little creature jump backward in hilarious fear. The creature runs around nervously before encountering a large, dark grey wolf with thick realistic fur, sharp expressive eyes, and a mischievous personality. Show an intense but funny face-to-face moment between the tiny creature and the intimidating wolf, using dramatic close-ups and exaggerated facial expressions. The wolf slowly moves closer while the little creature freezes in fear, creating perfect comedic tension. Add playful unexpected movements, funny reactions, realistic animal fur, detailed environments, cinematic camera angles, soft sunlight, and polished Hollywood-quality 3D animation. Maintain consistent character designs, smooth natural movements, expressive animation, entertaining visual storytelling, and a charming humorous ending with no dialogue, subtitles, text, or watermarks.
+
+### E2 · 女骑手穿越险峻山径抵达山谷
 
 - Creator: @aiwithaly
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
@@ -21,7 +37,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.
 
-### E2 · 紫发少女的校园篮球馆超能决战
+### E3 · 紫发少女的校园篮球馆超能决战
 
 - Creator: @AiwithElisia
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-45d48a1479db) · [finished media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-45d48a1479db.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-45d48a1479db.jpg) · [original source](https://x.com/AiwithElisia/status/2092484929523482818)
@@ -40,7 +56,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > At one point, the main character confronts another girl at extremely close range and creates a powerful…
 
-### E3 · Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake
+### E4 · Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake
 
 - Creator: AI_with_qamar
 - Evidence: [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) · [finished media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) · [poster](https://media.goodcase.ai/cases/dc4b7506f7ef.jpg) · [original source](https://x.com/q_a_i_m_01/status/2106092164250059051)
@@ -49,7 +65,28 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A cinematic anime-style scene of a young man riding a small scooter down a winding mountain trail covered with beautiful white daisies. Vast turquoise-blue alpine lake, dramatic snow-capped mountains, lush green hills and colorful wildflowers surround him. The camera starts with a close-up of the flowers, then smoothly follows behind the rider as he accelerates downhill. Strong sense of speed with dynamic motion blur, flowers and petals flying through the air. He reaches a small wooden ramp and launches into the air over the breathtaking mountain landscape, with petals floating around him. Dreamy golden-hour lighting, vibrant colors, detailed Japanese anime aesthetic, smooth fluid animation, atmospheric depth, cinematic camera movement, 9:16 vertical, highly detailed, magical adventurous mood, seamless motion, no text, no watermark.
 
-### E4 · 高山雪场女子单板腾跃
+### E5 · GTA风格冲浪店里的潜水面罩发布
+
+- Creator: @atulkumarzz
+- Evidence: [GoodCase](https://goodcase.ai/cases/atulkumarzz-seedance-2-5-ai-7366dd3fbedd) · [finished media](https://media.goodcase.ai/cases/8fab307ffc19.mp4) · [poster](https://media.goodcase.ai/cases/636ba14674a9.jpg) · [original source](https://x.com/atulkumarzz/status/2125072887795384717)
+- Summary: What if your next product launch happened in GTA 6? Picture a virtual store, an NPC introducing your product, and a cinematic showcase that looks like an in-gam…
+- Prompt excerpt:
+
+> What if your next product launch happened in GTA 6?
+>
+> Picture a virtual store, an NPC introducing your product, and a cinematic showcase that looks like an in-game advertisement.
+>
+> I started by heading to CapCut Web → Video Editor, clicking the plugin icon in the top-right corner, and copying the setup prompt into ChatGPT.
+>
+> After connecting the CapCut plugin, I explained the concept and asked it to call Seedance 2.5. The generated video gave my digital camera a completely different presentation.
+>
+> Try GPT-6.2 Astra with the CapCut plugin and explore a new way to promote your products. Don't miss 90% off your first month of CapCut Pro this Black Friday!
+>
+> ➜ https://www.capcut.com/tools/capcut-x-codex?utm_medium=social&utm_source=x&utm_campaign=gta620261124web
+>
+> #CapCutDidThat #ChatGPT #GTA6 #CapCutChatGPTPlugin
+
+### E6 · 高山雪场女子单板腾跃
 
 - Creator: @ayzalnooor24521
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg) · [original source](https://x.com/ayzalnooor24521/status/2094243156225315270)
@@ -62,7 +99,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > She then hits a large snow jump, launching into a high aerial with a stylish mid-air grab and rotation, snowboard visible against the deep blue sky and distant mountain ranges. Snow particles and powder spray trail behind her as she flies. Bright sunlight creates lens flares and sharp shadows on the pristine white snow.
 > High-energy, professional ski-film aesthetic, smooth camera movement, crisp details, vibrant colors, 15-second duration.
 
-### E5 · 女单板滑雪者高山飞跃
+### E7 · 女单板滑雪者高山飞跃
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) · [finished media](https://media.goodcase.ai/cases/662ea00b9012.mp4) · [poster](https://media.goodcase.ai/cases/309b9e7684a4.jpg) · [original source](https://x.com/CaliraVal/status/2094640598733234488)
@@ -75,7 +112,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Use realistic snow physics, natural body movement, detailed mountain textures, crisp sunlight, cinematic camera movement, slight motion blur, dramatic wide-angle aerial shots, and an energetic luxury sports-commercial aesthetic. Vertical 9:16, ultra-realistic, high detail, smooth transitions, natural lighting, 4K cinematic quality.
 
-### E6 · 雨夜霓虹中的白脸角色与悬疑抉择
+### E8 · 雨夜霓虹中的白脸角色与悬疑抉择
 
 - Creator: @fuckscales
 - Evidence: [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) · [finished media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) · [poster](https://media.goodcase.ai/cases/296ef06d90de.jpg) · [original source](https://x.com/fuckscales/status/2119499299163922738)
@@ -122,70 +159,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Dramatic sound design and suspenseful storytelling
 > A final interactive decision asking viewers…
 
-### E7 · 热气球少年穿越八个奇幻世界
-
-- Creator: @0xMovez
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-fable-5-2-create-a-3d-animated-short-film-for-the-web-3a5e16c5ac79) · [finished media](https://media.goodcase.ai/cases/84e6473eee5b.mp4) · [poster](https://media.goodcase.ai/cases/a539b06c9171.jpg) · [original source](https://x.com/0xMovez/status/2121001440470577157)
-- Summary: Fable 5.2 is absolutely f*cking insane for film animation. i made this 2-minutes animated short with Fable 5.2 without writing a single line of code.. and it's …
-- Prompt excerpt:
-
-> Prompt:
->
-> Create a 3D animated short film for the web. It must look like a still-by-still excerpt from a finished theatrical animated feature: painterly, glowing storybook 3D with rich, realistic materials. Not a tech demo, not a game scene, not low-poly art.
->
-> Deliver two things: a web page that plays the film in real time, and a 1920x1080, 30 fps MP4 rendered frame by frame from the same code, with a fully synthesized soundtrack. Pure three.js. No video model, no image model, no external assets, no audio samples. Use any tools, libraries, references and guides you want, and split the work across parallel agents if it helps (hero, one world each, optics, sound).
->
-> The hero is an original character: a little boy astronaut in an oversized cream retro spacesuit with orange accents, a glass fishbowl helmet, tousled copper-red hair and a brass spyglass. He rides in a wicker basket (sandbags, a hooked lantern, coiled rope) under a patched, striped storybook hot-air balloon in cream, faded red, mustard and dusty teal. Pennants and long ribbons trail behind. When the burner fires, the whole balloon glows from inside like a paper lantern. That warm glow is the one constant light of the film. No dialogue and no text on screen.
->
-> SCENE
->
-> One journey through eight worlds, from sunset through night to dawn. Each world gets two shots of about six seconds: a wide establishing shot with the balloon small against something huge, then a close or contrasting angle. Dip to black between worlds. About 100 seconds in total.
->
-> 1. Sea of Clouds. Sunset above an endless sea of clouds. A sky whale breach…
-
-### E8 · 街头球场变向突破暴扣
-
-- Creator: @im_shahid7
-- Evidence: [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) · [finished media](https://media.goodcase.ai/cases/8d884fea7647.mp4) · [poster](https://media.goodcase.ai/cases/54d3a5538fe4.jpg) · [original source](https://x.com/im_shahid7/status/2092933907218092451)
-- Summary: The challenge Made with GPT IMAGE 2 + Seedance 2.5 on PolloAi Prompt: REI: A player wearing a deep red and white jacket
-- Prompt excerpt:
-
-> REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
-> Style & Atmosphere
-> A dynamic presentation in a semi-flat editorial illustration style — bold, heavy brushstrokes, angular geometric rendering, blocks of color, and desaturated neutral concrete tones accented with rich deep red and teal. Warm sunlight shines diagonally from the left, creating clear light-and-shadow contrast with visible, delicate brush textures.
-> Narrative Overview
-> REI challenges TREY on the empty court and leaves him behind with a crossover move.
-> Dynamic Description
-> A steady push-in shot, medium close-up — REI takes large strides across the cracked asphalt from the left side of the frame and aggressively throws the basketball into TREY's chest. TREY, standing on the right beside the wrapped basketball hoop structure, catches the ball against his chest.
-> Hard cut to a low-angle, horizontal stabilized tracking shot, medium shot — TREY dribbles low while REI mirrors him closely with intense defensive pressure. The two slide from left to right along the faded free-throw arc. Sneakers screech against the ground as dust rises.
-> A whip-pan follows the basketball into an intimate handheld shot — REI performs a sharp crossover, rapidly switching the ball right, left, and right again. TREY's lead foot slips and he stumbles for half a beat. REI tears past his side and drives toward the basket.
-> Static Description
-> An empty urban street basketball court with a faded free…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 女骑手穿越险峻山径抵达山谷 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) | [Original](https://x.com/aiwithaly/status/2092111337686262077) | E1 |
-| 紫发少女的校园篮球馆超能决战 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-45d48a1479db) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-45d48a1479db.mp4) | [Original](https://x.com/AiwithElisia/status/2092484929523482818) | E2 |
-| Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E3 |
-| 高山雪场女子单板腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) | [Original](https://x.com/ayzalnooor24521/status/2094243156225315270) | E4 |
-| 女单板滑雪者高山飞跃 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) | [Media](https://media.goodcase.ai/cases/662ea00b9012.mp4) | [Original](https://x.com/CaliraVal/status/2094640598733234488) | E5 |
-| 雨夜霓虹中的白脸角色与悬疑抉择 | @fuckscales | [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) | [Media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) | [Original](https://x.com/fuckscales/status/2119499299163922738) | E6 |
-| 热气球少年穿越八个奇幻世界 | @0xMovez | [GoodCase](https://goodcase.ai/cases/claude-fable-5-2-create-a-3d-animated-short-film-for-the-web-3a5e16c5ac79) | [Media](https://media.goodcase.ai/cases/84e6473eee5b.mp4) | [Original](https://x.com/0xMovez/status/2121001440470577157) | E7 |
-| 街头球场变向突破暴扣 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) | [Media](https://media.goodcase.ai/cases/8d884fea7647.mp4) | [Original](https://x.com/im_shahid7/status/2092933907218092451) | E8 |
+| 小毛球林中连环惊扰狮虎狼 | @aiwithaayat | [GoodCase](https://goodcase.ai/cases/aiwithaayat-minimax-h3-ai-7633bd80405e) | [Media](https://media.goodcase.ai/cases/9207f41a4ba6.mp4) | [Original](https://x.com/aiwithaayat/status/2124012817493975202) | E1 |
+| 女骑手穿越险峻山径抵达山谷 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) | [Original](https://x.com/aiwithaly/status/2092111337686262077) | E2 |
+| 紫发少女的校园篮球馆超能决战 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-45d48a1479db) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-45d48a1479db.mp4) | [Original](https://x.com/AiwithElisia/status/2092484929523482818) | E3 |
+| Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E4 |
+| GTA风格冲浪店里的潜水面罩发布 | @atulkumarzz | [GoodCase](https://goodcase.ai/cases/atulkumarzz-seedance-2-5-ai-7366dd3fbedd) | [Media](https://media.goodcase.ai/cases/8fab307ffc19.mp4) | [Original](https://x.com/atulkumarzz/status/2125072887795384717) | E5 |
+| 高山雪场女子单板腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) | [Original](https://x.com/ayzalnooor24521/status/2094243156225315270) | E6 |
+| 女单板滑雪者高山飞跃 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) | [Media](https://media.goodcase.ai/cases/662ea00b9012.mp4) | [Original](https://x.com/CaliraVal/status/2094640598733234488) | E7 |
+| 雨夜霓虹中的白脸角色与悬疑抉择 | @fuckscales | [GoodCase](https://goodcase.ai/cases/claude-code-these-what-would-you-do-animated-stories-might-be-the-next-big-thing-on-ig-rn-710f43bb6af7) | [Media](https://media.goodcase.ai/cases/6b6262d48d08.mp4) | [Original](https://x.com/fuckscales/status/2119499299163922738) | E8 |
+| 热气球少年穿越八个奇幻世界 | @0xMovez | [GoodCase](https://goodcase.ai/cases/claude-fable-5-2-create-a-3d-animated-short-film-for-the-web-3a5e16c5ac79) | [Media](https://media.goodcase.ai/cases/84e6473eee5b.mp4) | [Original](https://x.com/0xMovez/status/2121001440470577157) | E— |
+| 波拉波拉泻湖水上飞机降落对比 | @eliadele | [GoodCase](https://goodcase.ai/cases/eliadele-claude-opus-5-5-claude-fable-5-2-gpt-6-2-astra-gemini-4-neon-ai-781cd76b35b5) | [Media](https://media.goodcase.ai/cases/67b50b3ed20b.mp4) | [Original](https://x.com/eliadele/status/2123878763624857693) | E— |
+| 街头球场变向突破暴扣 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) | [Media](https://media.goodcase.ai/cases/8d884fea7647.mp4) | [Original](https://x.com/im_shahid7/status/2092933907218092451) | E— |
 | 红超跑化机甲公路激战紫眼异兽 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/minimax-h3-cinematic-action-scene-on-a-multi-lane-city-highway-surrounded-by-skyscrapers-a-a27ebf755615) | [Media](https://media.goodcase.ai/cases/34d5272e2ff2.mp4) | [Original](https://x.com/laviniavelle/status/2120011460541632964) | E— |
 | 粉黑街头少女极限跑酷揭幕 | @AIwithJessica | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) | [Media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) | [Original](https://x.com/AIwithJessica/status/2094944595511779578) | E— |
 | 女孩被萌犬追成街头跑酷 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87) | [Media](https://media.goodcase.ai/media/video/missdelulu9-seedance-ai-cc2834a3dc87.mp4) | [Original](https://x.com/MissDelulu9/status/2092578120591446348) | E— |
 | 女子车手险胜山地自行车决赛 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) | [Original](https://x.com/nawalsehar/status/2094294374381441152) | E— |
 | Seedance 单板滑雪地形公园流畅滑行短片 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) | [Original](https://x.com/nawalsehar/status/2088854230626865490) | E— |
+| PixVerse：A beautiful young woman in a light pink floral mini dress dances gracefully and… | @Rizi_ru | [GoodCase](https://goodcase.ai/cases/pixverse-a-beautiful-young-woman-in-a-light-pink-floral-mini-dress-dances-gracefully-and-d63234254086) | [Media](https://media.goodcase.ai/cases/d4f1fc2ccfc0.mp4) | [Original](https://x.com/Rizi_ru/status/2123704202946085118) | E— |
 | 捡到钱立刻花掉的街头反转喜剧 | @john87445528 | [GoodCase](https://goodcase.ai/cases/seedance-14-77-9-16-576-1024-30fps-de6ac984ad6a) | [Media](https://media.goodcase.ai/cases/e919fe07e326.mp4) | [Original](https://x.com/john87445528/status/2097656268856905862) | E— |
+| 侧光近景中她从闭眼到含泪对视 | @bobolv235824 | [GoodCase](https://goodcase.ai/cases/seedance-15-9-16-441779df73c2) | [Media](https://media.goodcase.ai/cases/1c1f72ece496.mp4) | [Original](https://x.com/bobolv235824/status/2124053546828259606) | E— |
 | 水上闯关决胜前意外落水 | @Inshrah_ali_ | [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) | [Media](https://media.goodcase.ai/cases/050883318d18.mp4) | [Original](https://x.com/Inshrah_ali_/status/2098621065039647016) | E— |
-| 白衣女子在山间碧湖高桩上腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99) | [Media](https://media.goodcase.ai/cases/e3e323cb5411.mp4) | [Original](https://x.com/ayzalnooor24521/status/2113128549930729895) | E— |
-| 女子在雨后山间茶园跑酷激战十名蒙面人 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-16-9-widescreen-cinematic-live-action-15-seconds-high-momentum-parkour-fight-41e698499a8d) | [Media](https://media.goodcase.ai/cases/75b94a2833b2.mp4) | [Original](https://x.com/Chaemate_/status/2113558308514922850) | E— |
-| 废墟浅海上女剑士大战骷髅怨灵 | @Viniai_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-50s-built-in-4-shots-12-13s-each-4b8303bc6bc1) | [Media](https://media.goodcase.ai/cases/f07f21192c39.mp4) | [Original](https://x.com/Viniai_/status/2122916879824306422) | E— |
-| 微缩女子的家电卖场跑酷冒险 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893) | [Media](https://media.goodcase.ai/cases/66f3c9b854f4.mp4) | [Original](https://x.com/AIwithSynthia/status/2115416926092746987) | E— |
-| 微缩女子的便利店跑酷冒险 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd) | [Media](https://media.goodcase.ai/cases/e57a891dd0ed.mp4) | [Original](https://x.com/AIwithkhan/status/2106397932304191969) | E— |
 
 ## Derivation boundary
 

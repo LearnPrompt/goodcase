@@ -1,9 +1,9 @@
 ---
-name: pov-vlog-presence-by-wat8s8
-description: "Apply an evidence-derived POV and vlog presence workflow observed across published GoodCase examples by AIwithkhan. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
+name: sports-extreme-stunts-by-1h6taec
+description: "Apply an evidence-derived Sports and extreme stunts workflow observed across published GoodCase examples by Viniai_. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# AIwithkhan · Korean Alley Home Video
+# Viniai_ · Sports and extreme stunts
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
@@ -32,9 +32,9 @@ Ask only for missing inputs:
 2. Read `references/cases.md` and select one anchor Case.
 3. Inspect its finished media, summary, and prompt excerpt.
 4. Produce the Preserve / Replace / Avoid reference contract.
-5. Define the shooter and device.
-6. Write the movement path and incidental detail.
-7. Keep handheld imperfection and environmental texture.
+5. Write the stunt as an ordered chain of contact and reaction, with contact, sink, compression and rebound all visible.
+6. Name the physics item by item: suspension, braking, cornering, jumps.
+7. Spend the negative list on flying, hovering and teleporting.
 8. Produce the requested artifact using the output contract below.
 9. Compare it with the anchor Case, then revise material failures once.
 
